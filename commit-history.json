@@ -1,0 +1,19 @@
+[
+  {
+    "sha": "0afb0871aeae47ef9d532281db9a31e772b15539",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-04-23T00:40:05.000Z",
+      "message": "Feat: Pagina para registrarse creada",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/0afb0871aeae47ef9d532281db9a31e772b15539"
+    },
+    "stats": {
+      "total": 20,
+      "additions": 12,
+      "deletions": 8,
+      "date": "2025-04-23"
+    },
+    "coverage": 0,
+    "test_count": 1
+  }
+]
