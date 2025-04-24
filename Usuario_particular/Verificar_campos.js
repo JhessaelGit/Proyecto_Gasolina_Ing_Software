@@ -1,8 +1,12 @@
 function verificar_nombre(nombre_usuario){
+    const el_nombre_esta_vacio = nombre_usuario === "" || nombre_usuario === undefined
     let el_nombre_es_valido = true
-    if (nombre_usuario === "" || nombre_usuario === undefined){
+    
+    if (el_nombre_esta_vacio){
         el_nombre_es_valido = false
     }
+
+    
     return el_nombre_es_valido
 }
 
