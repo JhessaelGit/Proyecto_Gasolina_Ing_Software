@@ -66,5 +66,22 @@
     },
     "coverage": 0,
     "test_count": 4
+  },
+  {
+    "sha": "17817a59dc12fc00c41ca859fb564db25c67ebeb",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-04-24T20:05:57.000Z",
+      "message": "Refactor: Verificar nombre ahora tiene un nombre descriptivo al devolver el resultado",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/17817a59dc12fc00c41ca859fb564db25c67ebeb"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 3,
+      "deletions": 5,
+      "date": "2025-04-24"
+    },
+    "coverage": 0,
+    "test_count": 4
   }
 ]

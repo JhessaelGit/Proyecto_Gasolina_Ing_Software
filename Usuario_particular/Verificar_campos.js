@@ -1,11 +1,9 @@
 function verificar_nombre(nombre_usuario){
+    let el_nombre_es_valido = true
     if (nombre_usuario === "" || nombre_usuario === undefined){
-        return false
+        el_nombre_es_valido = false
     }
-    else
-    {
-        return true
-    }
+    return el_nombre_es_valido
 }
 
 export default verificar_nombre
