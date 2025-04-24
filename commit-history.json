@@ -32,5 +32,22 @@
     },
     "coverage": 0,
     "test_count": 2
+  },
+  {
+    "sha": "9d1c84ec49d7272cb192db5f157d25862550ea69",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-04-24T19:48:18.000Z",
+      "message": "Test: Verifica que el nombre tenga un valor",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/9d1c84ec49d7272cb192db5f157d25862550ea69"
+    },
+    "stats": {
+      "total": 15,
+      "additions": 12,
+      "deletions": 3,
+      "date": "2025-04-24"
+    },
+    "coverage": 0,
+    "test_count": 3
   }
 ]
