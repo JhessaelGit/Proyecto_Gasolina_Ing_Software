@@ -15,5 +15,22 @@
     },
     "coverage": 0,
     "test_count": 1
+  },
+  {
+    "sha": "722d8d6f8ad2fd8ccba2e27d26224f245b6b6ee6",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-04-24T18:42:19.000Z",
+      "message": "Tets: Verifica que la cadena no este vacia",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/722d8d6f8ad2fd8ccba2e27d26224f245b6b6ee6"
+    },
+    "stats": {
+      "total": 35,
+      "additions": 32,
+      "deletions": 3,
+      "date": "2025-04-24"
+    },
+    "coverage": 0,
+    "test_count": 2
   }
 ]

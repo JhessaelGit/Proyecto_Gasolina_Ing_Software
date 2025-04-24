@@ -8,6 +8,7 @@
     "start": "parcel index.html",
     "build": "parcel build index.html",
     "test": "node ./script/tddScript.js",
+    "test-once": "jest Verificar_campos.test.js",
     "cypress": "cypress open",
     "cypress-run": "cypress run",
     "lint": "eslint .",
