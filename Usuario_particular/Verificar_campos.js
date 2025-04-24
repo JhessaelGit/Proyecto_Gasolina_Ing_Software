@@ -1,6 +1,5 @@
 function verificar_nombre(nombre_usuario){
-    console.log(nombre_usuario)
-    if (nombre_usuario === ""){
+    if (nombre_usuario === "" || nombre_usuario === undefined){
         return false
     }
     else

@@ -49,5 +49,22 @@
     },
     "coverage": 0,
     "test_count": 3
+  },
+  {
+    "sha": "1a94ceb49f0907a6ae0b4958e7be4e9801f3a033",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-04-24T19:58:03.000Z",
+      "message": "Test: Ahora comprueva que el campo nombre no este vacio",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/1a94ceb49f0907a6ae0b4958e7be4e9801f3a033"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 4,
+      "deletions": 3,
+      "date": "2025-04-24"
+    },
+    "coverage": 0,
+    "test_count": 4
   }
 ]
