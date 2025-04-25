@@ -100,5 +100,22 @@
     },
     "coverage": 0,
     "test_count": 4
+  },
+  {
+    "sha": "3e85812aff16e333f7f234a56389f2b4b9fbe8fd",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-04-25T22:47:31.000Z",
+      "message": "Test: Se creo el test de la funcion verificar ci\"",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/3e85812aff16e333f7f234a56389f2b4b9fbe8fd"
+    },
+    "stats": {
+      "total": 15,
+      "additions": 13,
+      "deletions": 2,
+      "date": "2025-04-25"
+    },
+    "coverage": 0,
+    "test_count": 5
   }
 ]

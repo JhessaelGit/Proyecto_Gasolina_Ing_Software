@@ -9,5 +9,9 @@ function verificar_nombre(nombre_usuario){
     
     return el_nombre_es_valido
 }
+function verificar_ci(ci_usuario)
+{
+    return false
+}
 
-export default verificar_nombre
+export {verificar_nombre, verificar_ci}
