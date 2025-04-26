@@ -202,5 +202,22 @@
     },
     "coverage": 0,
     "test_count": 7
+  },
+  {
+    "sha": "c0b03672df61512698744c39d5a08b96891cf146",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-04-26T22:39:36.000Z",
+      "message": "Test: Verificar ci verifica que solo tenga valores numericos",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/c0b03672df61512698744c39d5a08b96891cf146"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 10,
+      "deletions": 3,
+      "date": "2025-04-26"
+    },
+    "coverage": 0,
+    "test_count": 9
   }
 ]
