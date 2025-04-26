@@ -1,13 +1,9 @@
-function verificar_nombre(nombre_usuario){
-    const el_nombre_esta_vacio = nombre_usuario === "" || nombre_usuario === undefined
-    let el_nombre_es_valido = true
+function El_string_no_esta_vacio(nombre_usuario){
+    const el_string_esta_vacio = nombre_usuario === "" || nombre_usuario === undefined
     
-    if (el_nombre_esta_vacio){
-        el_nombre_es_valido = false
-    }
-
+    let el_string_es_valido = !el_string_esta_vacio
     
-    return el_nombre_es_valido
+    return el_string_es_valido
 }
 function verificar_ci(ci_usuario)
 {
@@ -17,7 +13,9 @@ function verificar_ci(ci_usuario)
     if (el_ci_esta_vacio){
         el_ci_es_valido = false
     }
+
+
     return el_ci_es_valido
 }
 
-export {verificar_nombre, verificar_ci}
+export {El_string_no_esta_vacio, verificar_ci}

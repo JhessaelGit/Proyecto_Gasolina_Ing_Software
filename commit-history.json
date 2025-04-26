@@ -168,5 +168,22 @@
     },
     "coverage": 0,
     "test_count": 7
+  },
+  {
+    "sha": "8ca505db8c1dfa077dff2bc85e577b4e067ff1df",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-04-26T22:30:40.000Z",
+      "message": "Refactor: la funcion verificar nombre ahora se tiene otro nombre para verificar que string no este vacio",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/8ca505db8c1dfa077dff2bc85e577b4e067ff1df"
+    },
+    "stats": {
+      "total": 24,
+      "additions": 11,
+      "deletions": 13,
+      "date": "2025-04-26"
+    },
+    "coverage": 0,
+    "test_count": 7
   }
 ]
