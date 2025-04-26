@@ -1,0 +1,20 @@
+.botones {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* Espacio entre botones */
+    max-width: 300px; /* Ancho */
+}
+
+.botones button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.botones button:hover {
+    background-color: #fa8080; /* Color al pasar el mouse */
+}
