@@ -28,4 +28,7 @@ describe("Pruebas para verificar el ci",() => {
     it("Si el campo del ci tiene solo numeros deveria devolver un true", () => {
         expect(verificar_ci("12343234")).toEqual(true)
     })
+    it("Si el campo del ci tiene menos o mas de 8 digitos deveria devolver un false", () => {
+        expect(verificar_ci("12343")).toEqual(false)
+    })
 })

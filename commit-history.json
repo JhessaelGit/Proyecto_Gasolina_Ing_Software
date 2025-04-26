@@ -219,5 +219,22 @@
     },
     "coverage": 0,
     "test_count": 9
+  },
+  {
+    "sha": "a8d3437487cd1e0a8c7656e2a4f3e11dfa0e9786",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-04-26T22:54:53.000Z",
+      "message": "Test: Verificar ci verifica que se tengan 8 numeros",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/a8d3437487cd1e0a8c7656e2a4f3e11dfa0e9786"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 5,
+      "deletions": 1,
+      "date": "2025-04-26"
+    },
+    "coverage": 0,
+    "test_count": 10
   }
 ]
