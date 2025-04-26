@@ -236,5 +236,22 @@
     },
     "coverage": 0,
     "test_count": 10
+  },
+  {
+    "sha": "281f7bf6849624d80c39e2b636dd683963ba4255",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-04-26T22:58:02.000Z",
+      "message": "Refactor: Las pruebas ahora tienen nombres mas descriptivos",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/281f7bf6849624d80c39e2b636dd683963ba4255"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 10,
+      "deletions": 3,
+      "date": "2025-04-26"
+    },
+    "coverage": 0,
+    "test_count": 10
   }
 ]
