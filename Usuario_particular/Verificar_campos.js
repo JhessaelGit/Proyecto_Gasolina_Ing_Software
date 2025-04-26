@@ -11,7 +11,7 @@ function verificar_nombre(nombre_usuario){
 }
 function verificar_ci(ci_usuario)
 {
-    if(ci_usuario === "")
+    if(ci_usuario === "" || ci_usuario === undefined)
     {
         return false
     }

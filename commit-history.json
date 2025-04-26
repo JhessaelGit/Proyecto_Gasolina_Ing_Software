@@ -134,5 +134,22 @@
     },
     "coverage": 0,
     "test_count": 6
+  },
+  {
+    "sha": "e258be060dab759a7061b8db9b970ef7f7544b4c",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-04-26T19:49:54.000Z",
+      "message": "Test: La funcion Verificar ci verifica que no este vacio",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/e258be060dab759a7061b8db9b970ef7f7544b4c"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 5,
+      "deletions": 1,
+      "date": "2025-04-26"
+    },
+    "coverage": 0,
+    "test_count": 7
   }
 ]
