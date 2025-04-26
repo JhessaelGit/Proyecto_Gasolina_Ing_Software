@@ -185,5 +185,22 @@
     },
     "coverage": 0,
     "test_count": 7
+  },
+  {
+    "sha": "966692c8c608b9e44956955e6fba84f22803edd0",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-04-26T22:35:37.000Z",
+      "message": "Refactor: Verificar ci ahora es mas facil de entender",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/966692c8c608b9e44956955e6fba84f22803edd0"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 3,
+      "deletions": 8,
+      "date": "2025-04-26"
+    },
+    "coverage": 0,
+    "test_count": 7
   }
 ]

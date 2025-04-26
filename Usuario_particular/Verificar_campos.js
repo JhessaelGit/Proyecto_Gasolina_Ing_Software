@@ -7,15 +7,9 @@ function El_string_no_esta_vacio(nombre_usuario){
 }
 function verificar_ci(ci_usuario)
 {
-    const el_ci_esta_vacio = ci_usuario === "" || ci_usuario === undefined
-    let el_ci_es_valido = true
-    
-    if (el_ci_esta_vacio){
-        el_ci_es_valido = false
-    }
+    let el_ci_no_esta_vacio = El_string_no_esta_vacio(ci_usuario)
 
-
-    return el_ci_es_valido
+    return el_ci_no_esta_vacio
 }
 
 export {El_string_no_esta_vacio, verificar_ci}
