@@ -11,14 +11,13 @@ function verificar_nombre(nombre_usuario){
 }
 function verificar_ci(ci_usuario)
 {
-    if(ci_usuario === "" || ci_usuario === undefined)
-    {
-        return false
+    const el_ci_esta_vacio = ci_usuario === "" || ci_usuario === undefined
+    let el_ci_es_valido = true
+    
+    if (el_ci_esta_vacio){
+        el_ci_es_valido = false
     }
-    else
-    {
-        return true
-    }
+    return el_ci_es_valido
 }
 
 export {verificar_nombre, verificar_ci}

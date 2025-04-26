@@ -151,5 +151,22 @@
     },
     "coverage": 0,
     "test_count": 7
+  },
+  {
+    "sha": "bf30fd128454916998c8198ec9eb853aaa96fb87",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-04-26T22:19:58.000Z",
+      "message": "Refactor: Verificar ci tiene nombres mas descriptivos",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/bf30fd128454916998c8198ec9eb853aaa96fb87"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 6,
+      "deletions": 7,
+      "date": "2025-04-26"
+    },
+    "coverage": 0,
+    "test_count": 7
   }
 ]
