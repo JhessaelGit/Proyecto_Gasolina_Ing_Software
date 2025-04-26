@@ -253,5 +253,22 @@
     },
     "coverage": 0,
     "test_count": 10
+  },
+  {
+    "sha": "79ffc29a79c911cc300c245b6eda50d66a4421f8",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-04-26T23:00:41.000Z",
+      "message": "Refactor: las funciones se separaron par que hagan solo lo que deben hacer",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/79ffc29a79c911cc300c245b6eda50d66a4421f8"
+    },
+    "stats": {
+      "total": 16,
+      "additions": 9,
+      "deletions": 7,
+      "date": "2025-04-26"
+    },
+    "coverage": 0,
+    "test_count": 10
   }
 ]
