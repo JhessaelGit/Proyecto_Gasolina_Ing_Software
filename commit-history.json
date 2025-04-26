@@ -117,5 +117,22 @@
     },
     "coverage": 0,
     "test_count": 5
+  },
+  {
+    "sha": "fe9bcd756c710ec0a09cbf4800b182856276fe51",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-04-26T19:43:57.000Z",
+      "message": "Test: ahora verificar ci verifica que exista un valor en el string",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/fe9bcd756c710ec0a09cbf4800b182856276fe51"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 11,
+      "deletions": 2,
+      "date": "2025-04-26"
+    },
+    "coverage": 0,
+    "test_count": 6
   }
 ]

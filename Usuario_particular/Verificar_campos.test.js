@@ -16,5 +16,7 @@ describe("Pruebas para verificar el ci",() => {
     it("Si el campo del ci es una cadena vacia deberia retornar false", () => {
         expect(verificar_ci("")).toEqual(false)
     })
-    
+    it("Si el campo del ci esta con un valor deveria devolver true", () => {
+        expect(verificar_ci("1234")).toEqual(true)
+    })
 })

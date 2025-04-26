@@ -11,7 +11,14 @@ function verificar_nombre(nombre_usuario){
 }
 function verificar_ci(ci_usuario)
 {
-    return false
+    if(ci_usuario === "")
+    {
+        return false
+    }
+    else
+    {
+        return true
+    }
 }
 
 export {verificar_nombre, verificar_ci}
