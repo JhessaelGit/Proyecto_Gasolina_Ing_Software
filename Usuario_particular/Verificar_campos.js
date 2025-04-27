@@ -26,8 +26,9 @@ function verificar_ci(ci_usuario)
 
 function verificar_correo(correo_usuario){
     const el_correo_no_esta_vacio = El_string_no_esta_vacio(correo_usuario)
-    
-    return el_correo_no_esta_vacio
+    const el_correo_tiene_una_arroba = (correo_usuario || "").includes('@')
+    const el_correo_es_valido = el_correo_no_esta_vacio && el_correo_tiene_una_arroba
+    return el_correo_es_valido
 }
 
 

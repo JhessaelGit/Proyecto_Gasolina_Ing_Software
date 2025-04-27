@@ -304,5 +304,22 @@
     },
     "coverage": 0,
     "test_count": 13
+  },
+  {
+    "sha": "7474add84cd2e52cbad28e710d44e7652f362cff",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-04-27T02:09:23.000Z",
+      "message": "Test: verificar correo verifica que tenga un @",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/7474add84cd2e52cbad28e710d44e7652f362cff"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 7,
+      "deletions": 2,
+      "date": "2025-04-27"
+    },
+    "coverage": 0,
+    "test_count": 14
   }
 ]
