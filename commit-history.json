@@ -372,5 +372,22 @@
     },
     "coverage": 0,
     "test_count": 17
+  },
+  {
+    "sha": "09619c668f9562abffef20aff3c1c90c5dd73c63",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-04-27T02:23:36.000Z",
+      "message": "Refactor: Los archivos se movieron a una carpeta acorde a su uso",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/09619c668f9562abffef20aff3c1c90c5dd73c63"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2025-04-27"
+    },
+    "coverage": 0,
+    "test_count": 17
   }
 ]
