@@ -34,7 +34,9 @@ function verificar_correo(correo_usuario){
     return el_correo_es_valido
 }
 function verificar_contrasenia(contrasenia_usuario){
-    return false
+    const la_contrasenia_no_esta_vacia = contrasenia_usuario !== "" 
+
+    return la_contrasenia_no_esta_vacia
 }
 
 export {verificar_nombre, verificar_ci, verificar_correo, verificar_contrasenia}

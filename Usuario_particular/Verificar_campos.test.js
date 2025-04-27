@@ -52,4 +52,7 @@ describe("Pruebas para verificar la contraseña",() => {
     it("Si el campo del contraseña es una cadena vacia deberia retornar false", () => {
         expect(verificar_contrasenia("")).toEqual(false)  
     })
+    it("Si el campo del contraseña esta con un valor deveria devolver true", () => {
+        expect(verificar_contrasenia("1234j1234h")).toEqual(true)
+    })
 })

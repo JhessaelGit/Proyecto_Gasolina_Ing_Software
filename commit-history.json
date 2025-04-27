@@ -338,5 +338,22 @@
     },
     "coverage": 0,
     "test_count": 15
+  },
+  {
+    "sha": "d6908daf645f60dfcf707a073c3db15a8be60008",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-04-27T02:19:30.000Z",
+      "message": "Test: verificar contrasenia verifica que la cadena no este sin valores",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/d6908daf645f60dfcf707a073c3db15a8be60008"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 6,
+      "deletions": 1,
+      "date": "2025-04-27"
+    },
+    "coverage": 0,
+    "test_count": 16
   }
 ]
