@@ -151,5 +151,22 @@
     },
     "coverage": 0,
     "test_count": 7
+  },
+  {
+    "sha": "ba277882ed2fb2d3a5957055c9199f7b0dcaebf5",
+    "author": "melanytorrez",
+    "commit": {
+      "date": "2025-04-27T03:25:41.000Z",
+      "message": "feat: registro de administradores de surtidor",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/ba277882ed2fb2d3a5957055c9199f7b0dcaebf5"
+    },
+    "stats": {
+      "total": 44,
+      "additions": 44,
+      "deletions": 0,
+      "date": "2025-04-27"
+    },
+    "coverage": 0,
+    "test_count": 0
   }
 ]
