@@ -16,12 +16,19 @@ function El_string_solo_tiene_numeros(cadena){
 
 function verificar_ci(ci_usuario)
 {
-    let el_ci_no_esta_vacio = El_string_no_esta_vacio(ci_usuario)
-    let el_ci_tiene_solo_numeros = El_string_solo_tiene_numeros(ci_usuario)    
-    let el_ci_tiene_8_digitos = (ci_usuario || "").length === 8 
-    let el_ci_es_valido = el_ci_no_esta_vacio && el_ci_tiene_solo_numeros && el_ci_tiene_8_digitos
+    const el_ci_no_esta_vacio = El_string_no_esta_vacio(ci_usuario)
+    const el_ci_tiene_solo_numeros = El_string_solo_tiene_numeros(ci_usuario)    
+    const el_ci_tiene_8_digitos = (ci_usuario || "").length === 8 
+    const el_ci_es_valido = el_ci_no_esta_vacio && el_ci_tiene_solo_numeros && el_ci_tiene_8_digitos
 
     return el_ci_es_valido
 }
 
-export {verificar_nombre, verificar_ci}
+function verificar_correo(correo_usuario){
+    const el_correo_no_esta_vacio = El_string_no_esta_vacio(correo_usuario)
+    
+    return el_correo_no_esta_vacio
+}
+
+
+export {verificar_nombre, verificar_ci, verificar_correo}

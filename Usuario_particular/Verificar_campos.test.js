@@ -1,4 +1,4 @@
-import {verificar_nombre,verificar_ci} from "./Verificar_campos";
+import {verificar_nombre,verificar_ci, verificar_correo} from "./Verificar_campos";
 
 describe("Pruebas para verificar el nombre",() => {
     it("Si el campo del nombre es una cadena vacia deberia retornar false", () => {
@@ -30,5 +30,14 @@ describe("Pruebas para verificar el ci",() => {
     })
     it("Si el campo del ci tiene menos o mas de 8 digitos deveria devolver un false", () => {
         expect(verificar_ci("12343")).toEqual(false)
+    })
+})
+
+describe("Pruebas para verificar el correo",() => {
+    it("Si el campo del correo es una cadena vacia deberia retornar false", () => {
+        expect(verificar_correo("")).toEqual(false)  
+    })
+    it("Si el campo del correo esta con un valor deveria devolver true", () => {
+        expect(verificar_correo("prueba@gmail.com")).toEqual(true)
     })
 })
