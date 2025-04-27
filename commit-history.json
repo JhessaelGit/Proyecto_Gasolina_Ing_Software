@@ -389,5 +389,22 @@
     },
     "coverage": 0,
     "test_count": 17
+  },
+  {
+    "sha": "264c3cfd55ec86b887b86bef303112c4dc48d948",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-04-27T03:20:13.000Z",
+      "message": "Feat: Ahora La pagina de registro para el vehiculo particular esta terminada",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/264c3cfd55ec86b887b86bef303112c4dc48d948"
+    },
+    "stats": {
+      "total": 17707,
+      "additions": 17,
+      "deletions": 17690,
+      "date": "2025-04-27"
+    },
+    "coverage": 0,
+    "test_count": 17
   }
 ]
