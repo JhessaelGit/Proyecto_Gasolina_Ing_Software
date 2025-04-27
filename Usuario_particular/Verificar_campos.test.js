@@ -1,4 +1,4 @@
-import {verificar_nombre,verificar_ci, verificar_correo} from "./Verificar_campos";
+import {verificar_nombre,verificar_ci, verificar_correo, verificar_contrasenia} from "./Verificar_campos";
 
 describe("Pruebas para verificar el nombre",() => {
     it("Si el campo del nombre es una cadena vacia deberia retornar false", () => {
@@ -46,5 +46,10 @@ describe("Pruebas para verificar el correo",() => {
     it("Si el campo del correo no incluye un @ deveria retornar un false", () => {
         expect(verificar_correo("pruebagmail.com")).toEqual(false)
     })
-    
+})
+
+describe("Pruebas para verificar la contraseña",() => {
+    it("Si el campo del contraseña es una cadena vacia deberia retornar false", () => {
+        expect(verificar_contrasenia("")).toEqual(false)  
+    })
 })
