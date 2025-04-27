@@ -355,5 +355,22 @@
     },
     "coverage": 0,
     "test_count": 16
+  },
+  {
+    "sha": "83eceb92a27789073e1778bb22160fdf5a0e9a68",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-04-27T02:21:05.000Z",
+      "message": "Test: verificar contraseña verifica que el campo no este vacio",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/83eceb92a27789073e1778bb22160fdf5a0e9a68"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 5,
+      "deletions": 1,
+      "date": "2025-04-27"
+    },
+    "coverage": 0,
+    "test_count": 17
   }
 ]
