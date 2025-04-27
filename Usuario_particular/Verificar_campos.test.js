@@ -40,4 +40,7 @@ describe("Pruebas para verificar el correo",() => {
     it("Si el campo del correo esta con un valor deveria devolver true", () => {
         expect(verificar_correo("prueba@gmail.com")).toEqual(true)
     })
+    it("Si el campo del correo esta vacio deveria devolver un false", () => {
+        expect(verificar_correo()).toEqual(false)
+    })
 })

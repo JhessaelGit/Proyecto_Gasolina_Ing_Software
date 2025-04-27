@@ -287,5 +287,22 @@
     },
     "coverage": 0,
     "test_count": 12
+  },
+  {
+    "sha": "ad232dd4f15fcc4d9423de6ec7267ad928e1637b",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-04-27T02:04:46.000Z",
+      "message": "Test: Verificar correo retorna false si no se le envia el dato",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/ad232dd4f15fcc4d9423de6ec7267ad928e1637b"
+    },
+    "stats": {
+      "total": 3,
+      "additions": 3,
+      "deletions": 0,
+      "date": "2025-04-27"
+    },
+    "coverage": 0,
+    "test_count": 13
   }
 ]
