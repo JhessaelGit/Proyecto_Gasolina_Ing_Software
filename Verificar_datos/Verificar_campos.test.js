@@ -64,4 +64,7 @@ describe("Pruebas para verificar el surtidor",() => {
     it("Si el campo del surtidor es una cadena vacia deberia retornar false", () => {
         expect(verificar_surtidor("")).toEqual(false)
     })
+    it("Si el campo del nombre esta con nombre deveria devolver true", () => {
+        expect(verificar_surtidor("El Cristo")).toEqual(true)
+    })
 })
