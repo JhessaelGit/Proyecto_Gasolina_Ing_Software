@@ -1,170 +1,17 @@
 [
   {
-    "sha": "0afb0871aeae47ef9d532281db9a31e772b15539",
-    "author": "Jhessael Siancas",
-    "commit": {
-      "date": "2025-04-23T00:40:05.000Z",
-      "message": "Feat: Pagina para registrarse creada",
-      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/0afb0871aeae47ef9d532281db9a31e772b15539"
-    },
-    "stats": {
-      "total": 20,
-      "additions": 12,
-      "deletions": 8,
-      "date": "2025-04-23"
-    },
-    "coverage": 0,
-    "test_count": 1
-  },
-  {
-    "sha": "722d8d6f8ad2fd8ccba2e27d26224f245b6b6ee6",
-    "author": "Jhessael Siancas",
-    "commit": {
-      "date": "2025-04-24T18:42:19.000Z",
-      "message": "Tets: Verifica que la cadena no este vacia",
-      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/722d8d6f8ad2fd8ccba2e27d26224f245b6b6ee6"
-    },
-    "stats": {
-      "total": 35,
-      "additions": 32,
-      "deletions": 3,
-      "date": "2025-04-24"
-    },
-    "coverage": 0,
-    "test_count": 2
-  },
-  {
-    "sha": "9d1c84ec49d7272cb192db5f157d25862550ea69",
-    "author": "Jhessael Siancas",
-    "commit": {
-      "date": "2025-04-24T19:48:18.000Z",
-      "message": "Test: Verifica que el nombre tenga un valor",
-      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/9d1c84ec49d7272cb192db5f157d25862550ea69"
-    },
-    "stats": {
-      "total": 15,
-      "additions": 12,
-      "deletions": 3,
-      "date": "2025-04-24"
-    },
-    "coverage": 0,
-    "test_count": 3
-  },
-  {
-    "sha": "1a94ceb49f0907a6ae0b4958e7be4e9801f3a033",
-    "author": "Jhessael Siancas",
-    "commit": {
-      "date": "2025-04-24T19:58:03.000Z",
-      "message": "Test: Ahora comprueva que el campo nombre no este vacio",
-      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/1a94ceb49f0907a6ae0b4958e7be4e9801f3a033"
-    },
-    "stats": {
-      "total": 7,
-      "additions": 4,
-      "deletions": 3,
-      "date": "2025-04-24"
-    },
-    "coverage": 0,
-    "test_count": 4
-  },
-  {
-    "sha": "17817a59dc12fc00c41ca859fb564db25c67ebeb",
-    "author": "Jhessael Siancas",
-    "commit": {
-      "date": "2025-04-24T20:05:57.000Z",
-      "message": "Refactor: Verificar nombre ahora tiene un nombre descriptivo al devolver el resultado",
-      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/17817a59dc12fc00c41ca859fb564db25c67ebeb"
-    },
-    "stats": {
-      "total": 8,
-      "additions": 3,
-      "deletions": 5,
-      "date": "2025-04-24"
-    },
-    "coverage": 0,
-    "test_count": 4
-  },
-  {
-    "sha": "da8cb3bdaf26592405fcb10ca8c74627d7411782",
-    "author": "Jhessael Siancas",
-    "commit": {
-      "date": "2025-04-24T20:08:20.000Z",
-      "message": "Refactor: La funcion Verificar nombre tiene nombres mas descriptivos",
-      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/da8cb3bdaf26592405fcb10ca8c74627d7411782"
-    },
-    "stats": {
-      "total": 6,
-      "additions": 5,
-      "deletions": 1,
-      "date": "2025-04-24"
-    },
-    "coverage": 0,
-    "test_count": 4
-  },
-  {
-    "sha": "3e85812aff16e333f7f234a56389f2b4b9fbe8fd",
-    "author": "Jhessael Siancas",
-    "commit": {
-      "date": "2025-04-25T22:47:31.000Z",
-      "message": "Test: Se creo el test de la funcion verificar ci\"",
-      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/3e85812aff16e333f7f234a56389f2b4b9fbe8fd"
-    },
-    "stats": {
-      "total": 15,
-      "additions": 13,
-      "deletions": 2,
-      "date": "2025-04-25"
-    },
-    "coverage": 0,
-    "test_count": 5
-  },
-  {
-    "sha": "fe9bcd756c710ec0a09cbf4800b182856276fe51",
-    "author": "Jhessael Siancas",
-    "commit": {
-      "date": "2025-04-26T19:43:57.000Z",
-      "message": "Test: ahora verificar ci verifica que exista un valor en el string",
-      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/fe9bcd756c710ec0a09cbf4800b182856276fe51"
-    },
-    "stats": {
-      "total": 13,
-      "additions": 11,
-      "deletions": 2,
-      "date": "2025-04-26"
-    },
-    "coverage": 0,
-    "test_count": 6
-  },
-  {
-    "sha": "e258be060dab759a7061b8db9b970ef7f7544b4c",
-    "author": "Jhessael Siancas",
-    "commit": {
-      "date": "2025-04-26T19:49:54.000Z",
-      "message": "Test: La funcion Verificar ci verifica que no este vacio",
-      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/e258be060dab759a7061b8db9b970ef7f7544b4c"
-    },
-    "stats": {
-      "total": 6,
-      "additions": 5,
-      "deletions": 1,
-      "date": "2025-04-26"
-    },
-    "coverage": 0,
-    "test_count": 7
-  },
-  {
-    "sha": "ba277882ed2fb2d3a5957055c9199f7b0dcaebf5",
+    "sha": "3af88c94af9843de20f0aec7b6bbd5f557867074",
     "author": "melanytorrez",
     "commit": {
-      "date": "2025-04-27T03:25:41.000Z",
-      "message": "feat: registro de administradores de surtidor",
-      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/ba277882ed2fb2d3a5957055c9199f7b0dcaebf5"
+      "date": "2025-04-28T02:03:11.000Z",
+      "message": "Resolví conflicto aceptando cambios entrantes de registrar_usuario_particular",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/3af88c94af9843de20f0aec7b6bbd5f557867074"
     },
     "stats": {
-      "total": 44,
-      "additions": 44,
-      "deletions": 0,
-      "date": "2025-04-27"
+      "total": 18116,
+      "additions": 370,
+      "deletions": 17746,
+      "date": "2025-04-28"
     },
     "coverage": 0,
     "test_count": 0
