@@ -40,4 +40,12 @@ function verificar_contrasenia(contrasenia_usuario){
     return la_contrasenia_no_esta_vacia
 }
 
-export {verificar_nombre, verificar_ci, verificar_correo, verificar_contrasenia}
+//////////////////////////
+
+function verificar_surtidor(surtidor){
+    
+    return El_string_no_esta_vacio(surtidor)
+}
+
+
+export {verificar_nombre, verificar_ci, verificar_correo, verificar_contrasenia, verificar_surtidor}

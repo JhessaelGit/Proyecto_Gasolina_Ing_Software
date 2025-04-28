@@ -15,5 +15,22 @@
     },
     "coverage": 0,
     "test_count": 0
+  },
+  {
+    "sha": "433195cfe62196ff05822369a11382231fadb243",
+    "author": "melanytorrez",
+    "commit": {
+      "date": "2025-04-28T02:28:40.000Z",
+      "message": "test: verificar que el nombre del surtidor no sea vacio",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/433195cfe62196ff05822369a11382231fadb243"
+    },
+    "stats": {
+      "total": 34,
+      "additions": 20,
+      "deletions": 14,
+      "date": "2025-04-28"
+    },
+    "coverage": 0,
+    "test_count": 18
   }
 ]

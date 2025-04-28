@@ -1,4 +1,4 @@
-import {verificar_nombre,verificar_ci, verificar_correo, verificar_contrasenia} from "./Verificar_campos";
+import {verificar_nombre,verificar_ci, verificar_correo, verificar_contrasenia, verificar_surtidor} from "./Verificar_campos";
 
 describe("Pruebas para verificar el nombre",() => {
     it("Si el campo del nombre es una cadena vacia deberia retornar false", () => {
@@ -57,5 +57,11 @@ describe("Pruebas para verificar la contraseña",() => {
     })
     it("Si el campo del contraseña esta vacio deveria devolver un false", () => {
         expect(verificar_contrasenia()).toEqual(false)
+    })
+})
+
+describe("Pruebas para verificar el surtidor",() => {
+    it("Si el campo del surtidor es una cadena vacia deberia retornar false", () => {
+        expect(verificar_surtidor("")).toEqual(false)
     })
 })
