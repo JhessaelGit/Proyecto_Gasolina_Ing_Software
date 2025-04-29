@@ -49,5 +49,22 @@
     },
     "coverage": 0,
     "test_count": 19
+  },
+  {
+    "sha": "33ed895e9444c3b4dd99eda330732e5948e4c099",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-04-29T13:51:06.000Z",
+      "message": "Archivos no usados borrados",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/33ed895e9444c3b4dd99eda330732e5948e4c099"
+    },
+    "stats": {
+      "total": 29,
+      "additions": 0,
+      "deletions": 29,
+      "date": "2025-04-29"
+    },
+    "coverage": 0,
+    "test_count": 18
   }
 ]
