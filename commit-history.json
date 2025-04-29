@@ -440,5 +440,22 @@
     },
     "coverage": 0,
     "test_count": 18
+  },
+  {
+    "sha": "ef8312f7cc1621482e8fac81acbba7bf2515a076",
+    "author": "Tairin-Munoz",
+    "commit": {
+      "date": "2025-04-29T12:01:45.000Z",
+      "message": "test: verifica que el registro de gasolina solo contenga valores numericos",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/ef8312f7cc1621482e8fac81acbba7bf2515a076"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 5,
+      "deletions": 1,
+      "date": "2025-04-29"
+    },
+    "coverage": 0,
+    "test_count": 19
   }
 ]

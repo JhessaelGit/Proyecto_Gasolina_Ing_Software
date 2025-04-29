@@ -42,7 +42,8 @@ function verificar_contrasenia(contrasenia_usuario){
 
 function verificar_cantidad_gasolina(cantidad_gasolina){
     const la_cantidad_gasolina_no_esta_vacia = El_string_no_esta_vacio(cantidad_gasolina)
-    return la_cantidad_gasolina_no_esta_vacia
+    const la_cantidad_gasolina_solo_tiene_numeros = El_string_solo_tiene_numeros(cantidad_gasolina)
+    return la_cantidad_gasolina_no_esta_vacia,la_cantidad_gasolina_solo_tiene_numeros
 }
 
 
