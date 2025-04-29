@@ -12,7 +12,7 @@ boton_registrar_llegada_gasolina.addEventListener("click", (event) => {
     window.location.href = "Usuario_administrador_surtidor";
   }
   else{
-    alert("Por favor, ingrese los datos correctamente, los campos no deven estar vacios y debe poner un correo valido")
+    alert("Por favor, ingrese los datos correctamente")
   }
 
 });
