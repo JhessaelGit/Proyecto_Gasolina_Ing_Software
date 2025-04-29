@@ -423,5 +423,22 @@
     },
     "coverage": 0,
     "test_count": 17
+  },
+  {
+    "sha": "1019c3fd14f594221c16a12f19c6872ce0b12b68",
+    "author": "Tairin-Munoz",
+    "commit": {
+      "date": "2025-04-29T11:59:33.000Z",
+      "message": "test: verifica que el registro de gasolina no este vacio",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/1019c3fd14f594221c16a12f19c6872ce0b12b68"
+    },
+    "stats": {
+      "total": 39,
+      "additions": 36,
+      "deletions": 3,
+      "date": "2025-04-29"
+    },
+    "coverage": 0,
+    "test_count": 18
   }
 ]

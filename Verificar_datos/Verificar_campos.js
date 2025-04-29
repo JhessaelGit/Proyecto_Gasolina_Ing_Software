@@ -40,4 +40,12 @@ function verificar_contrasenia(contrasenia_usuario){
     return la_contrasenia_no_esta_vacia
 }
 
-export {verificar_nombre, verificar_ci, verificar_correo, verificar_contrasenia}
+function verificar_cantidad_gasolina(cantidad_gasolina){
+    const la_cantidad_gasolina_no_esta_vacia = El_string_no_esta_vacio(cantidad_gasolina)
+    return la_cantidad_gasolina_no_esta_vacia
+}
+
+
+
+
+export {verificar_nombre, verificar_ci, verificar_correo, verificar_contrasenia,verificar_cantidad_gasolina}
