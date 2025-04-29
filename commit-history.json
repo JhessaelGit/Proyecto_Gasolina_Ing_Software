@@ -1,5 +1,22 @@
 [
   {
+    "sha": "264c3cfd55ec86b887b86bef303112c4dc48d948",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-04-27T03:20:13.000Z",
+      "message": "Feat: Ahora La pagina de registro para el vehiculo particular esta terminada",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/264c3cfd55ec86b887b86bef303112c4dc48d948"
+    },
+    "stats": {
+      "total": 17707,
+      "additions": 17,
+      "deletions": 17690,
+      "date": "2025-04-27"
+    },
+    "coverage": 0,
+    "test_count": 17
+  },
+  {
     "sha": "3af88c94af9843de20f0aec7b6bbd5f557867074",
     "author": "melanytorrez",
     "commit": {
@@ -51,6 +68,108 @@
     "test_count": 19
   },
   {
+    "sha": "447ed55ab2728d318ee4da1d94b2a3a0991bc6ff",
+    "author": "Tairin-Munoz",
+    "commit": {
+      "date": "2025-04-29T11:10:09.000Z",
+      "message": "feat: se agrego la parte de HTML para el registro de llegada de gasolina a surtidor",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/447ed55ab2728d318ee4da1d94b2a3a0991bc6ff"
+    },
+    "stats": {
+      "total": 19,
+      "additions": 19,
+      "deletions": 0,
+      "date": "2025-04-29"
+    },
+    "coverage": 0,
+    "test_count": 17
+  },
+  {
+    "sha": "1019c3fd14f594221c16a12f19c6872ce0b12b68",
+    "author": "Tairin-Munoz",
+    "commit": {
+      "date": "2025-04-29T11:59:33.000Z",
+      "message": "test: verifica que el registro de gasolina no este vacio",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/1019c3fd14f594221c16a12f19c6872ce0b12b68"
+    },
+    "stats": {
+      "total": 39,
+      "additions": 36,
+      "deletions": 3,
+      "date": "2025-04-29"
+    },
+    "coverage": 0,
+    "test_count": 18
+  },
+  {
+    "sha": "ef8312f7cc1621482e8fac81acbba7bf2515a076",
+    "author": "Tairin-Munoz",
+    "commit": {
+      "date": "2025-04-29T12:01:45.000Z",
+      "message": "test: verifica que el registro de gasolina solo contenga valores numericos",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/ef8312f7cc1621482e8fac81acbba7bf2515a076"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 5,
+      "deletions": 1,
+      "date": "2025-04-29"
+    },
+    "coverage": 0,
+    "test_count": 19
+  },
+  {
+    "sha": "9d1ba982efcc2d0f9dccf2d3fa9fff1f5e17dd98",
+    "author": "Tairin-Munoz",
+    "commit": {
+      "date": "2025-04-29T12:03:40.000Z",
+      "message": "test: verifica que el registro de gasolina solo tengan numeros",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/9d1ba982efcc2d0f9dccf2d3fa9fff1f5e17dd98"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 6,
+      "deletions": 2,
+      "date": "2025-04-29"
+    },
+    "coverage": 0,
+    "test_count": 20
+  },
+  {
+    "sha": "bad1aad1209a6d1a7982e60015f18a2771744444",
+    "author": "Tairin-Munoz",
+    "commit": {
+      "date": "2025-04-29T12:05:10.000Z",
+      "message": "refactor: la funcion verificar ahora es mas entendible",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/bad1aad1209a6d1a7982e60015f18a2771744444"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 2,
+      "deletions": 2,
+      "date": "2025-04-29"
+    },
+    "coverage": 0,
+    "test_count": 20
+  },
+  {
+    "sha": "002907c7090b2f71816256787ac896aa86f84980",
+    "author": "Tairin-Munoz",
+    "commit": {
+      "date": "2025-04-29T13:37:14.000Z",
+      "message": "fix: se corrigio detalle en html",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/002907c7090b2f71816256787ac896aa86f84980"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 2,
+      "deletions": 2,
+      "date": "2025-04-29"
+    },
+    "coverage": 0,
+    "test_count": 20
+  },
+  {
     "sha": "33ed895e9444c3b4dd99eda330732e5948e4c099",
     "author": "Jhessael Siancas",
     "commit": {
@@ -66,5 +185,56 @@
     },
     "coverage": 0,
     "test_count": 18
+  },
+  {
+    "sha": "35deb88732840ced9d2efb668f00f1246522c1fb",
+    "author": "Tairin-Munoz",
+    "commit": {
+      "date": "2025-04-29T14:23:29.000Z",
+      "message": "Agregar validación de cantidad de gasolina en registro_llegada_gasolina",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/35deb88732840ced9d2efb668f00f1246522c1fb"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 2,
+      "deletions": 2,
+      "date": "2025-04-29"
+    },
+    "coverage": 0,
+    "test_count": 20
+  },
+  {
+    "sha": "c8b20e9a4c025011dd797ddbf3ac7b7a470eec01",
+    "author": "Tairin-Munoz",
+    "commit": {
+      "date": "2025-04-29T14:27:33.000Z",
+      "message": "se corrigio una parte del archivo",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/c8b20e9a4c025011dd797ddbf3ac7b7a470eec01"
+    },
+    "stats": {
+      "total": 1,
+      "additions": 0,
+      "deletions": 1,
+      "date": "2025-04-29"
+    },
+    "coverage": 0,
+    "test_count": 20
+  },
+  {
+    "sha": "85772edb5d6776ddd8b6cb539bbec0c7846b26f0",
+    "author": "Tairin-Munoz",
+    "commit": {
+      "date": "2025-04-29T18:51:11.000Z",
+      "message": "Feat: Registra llegada gasolina",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/85772edb5d6776ddd8b6cb539bbec0c7846b26f0"
+    },
+    "stats": {
+      "total": 220,
+      "additions": 217,
+      "deletions": 3,
+      "date": "2025-04-29"
+    },
+    "coverage": 0,
+    "test_count": 21
   }
 ]

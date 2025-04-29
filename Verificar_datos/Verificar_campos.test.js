@@ -1,4 +1,4 @@
-import {verificar_nombre,verificar_ci, verificar_correo, verificar_contrasenia, verificar_surtidor} from "./Verificar_campos";
+import {verificar_nombre,verificar_ci, verificar_correo, verificar_contrasenia,verificar_cantidad_gasolina,verificar_surtidor} from "./Verificar_campos";
 
 describe("Pruebas para verificar el nombre",() => {
     it("Si el campo del nombre es una cadena vacia deberia retornar false", () => {
@@ -66,5 +66,20 @@ describe("Pruebas para verificar el surtidor",() => {
     })
     it("Si el campo del nombre esta con nombre deveria devolver true", () => {
         expect(verificar_surtidor("El Cristo")).toEqual(true)
+    })
+        
+    }
+)
+
+
+describe("Pruebas para verificar la cantidad de gasolina", () => {
+    it("Si el campo del registro de cantidad de gasolina es una cadena vacia deberia retornar false", () => {
+        expect(verificar_cantidad_gasolina("")).toBe(false);
+    })
+    it("Si el campo del registro de cantidad de gasolina esta deberia devolver un false", () => {
+        expect(verificar_cantidad_gasolina("12df3")).toEqual(false)
+    })
+    it("Si campo del registro de cantidad de gasolina tienen solo numeros deberia devolver un true", () => {
+        expect(verificar_cantidad_gasolina("1000")).toEqual(true)
     })
 })

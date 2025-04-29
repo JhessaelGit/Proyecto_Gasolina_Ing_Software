@@ -47,5 +47,15 @@ function verificar_surtidor(surtidor){
     return El_string_no_esta_vacio(surtidor)
 }
 
+function verificar_cantidad_gasolina(cantidad_gasolina){
+    const la_cantidad_gasolina_no_esta_vacia = El_string_no_esta_vacio(cantidad_gasolina)
+    const la_cantidad_gasolina_solo_tiene_numeros = El_string_solo_tiene_numeros(cantidad_gasolina)
+    
+    const la_cantidad_de_gasolina_es_valida = la_cantidad_gasolina_no_esta_vacia&& la_cantidad_gasolina_solo_tiene_numeros
+    return la_cantidad_de_gasolina_es_valida
+}
 
-export {verificar_nombre, verificar_ci, verificar_correo, verificar_contrasenia, verificar_surtidor}
+
+
+
+export {verificar_nombre, verificar_ci, verificar_correo, verificar_contrasenia,verificar_cantidad_gasolina, verificar_surtidor}
