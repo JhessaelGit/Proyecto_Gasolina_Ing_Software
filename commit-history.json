@@ -508,5 +508,22 @@
     },
     "coverage": 0,
     "test_count": 20
+  },
+  {
+    "sha": "35deb88732840ced9d2efb668f00f1246522c1fb",
+    "author": "Tairin-Munoz",
+    "commit": {
+      "date": "2025-04-29T14:23:29.000Z",
+      "message": "Agregar validación de cantidad de gasolina en registro_llegada_gasolina",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/35deb88732840ced9d2efb668f00f1246522c1fb"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 2,
+      "deletions": 2,
+      "date": "2025-04-29"
+    },
+    "coverage": 0,
+    "test_count": 20
   }
 ]
