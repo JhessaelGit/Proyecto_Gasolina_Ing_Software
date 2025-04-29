@@ -67,5 +67,7 @@ describe("Pruebas para verificar la cantidad de gasolina", () => {
     it("Si el campo del registro de cantidad de gasolina esta deberia devolver un false", () => {
         expect(verificar_cantidad_gasolina("12df3")).toEqual(false)
     })
-   
+    it("Si campo del registro de cantidad de gasolina tienen solo numeros deberia devolver un true", () => {
+        expect(verificar_cantidad_gasolina("1000")).toEqual(true)
+    })
 })
