@@ -525,5 +525,22 @@
     },
     "coverage": 0,
     "test_count": 20
+  },
+  {
+    "sha": "c8b20e9a4c025011dd797ddbf3ac7b7a470eec01",
+    "author": "Tairin-Munoz",
+    "commit": {
+      "date": "2025-04-29T14:27:33.000Z",
+      "message": "se corrigio una parte del archivo",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/c8b20e9a4c025011dd797ddbf3ac7b7a470eec01"
+    },
+    "stats": {
+      "total": 1,
+      "additions": 0,
+      "deletions": 1,
+      "date": "2025-04-29"
+    },
+    "coverage": 0,
+    "test_count": 20
   }
 ]
