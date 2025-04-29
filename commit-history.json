@@ -474,5 +474,22 @@
     },
     "coverage": 0,
     "test_count": 20
+  },
+  {
+    "sha": "bad1aad1209a6d1a7982e60015f18a2771744444",
+    "author": "Tairin-Munoz",
+    "commit": {
+      "date": "2025-04-29T12:05:10.000Z",
+      "message": "refactor: la funcion verificar ahora es mas entendible",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/bad1aad1209a6d1a7982e60015f18a2771744444"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 2,
+      "deletions": 2,
+      "date": "2025-04-29"
+    },
+    "coverage": 0,
+    "test_count": 20
   }
 ]
