@@ -406,5 +406,22 @@
     },
     "coverage": 0,
     "test_count": 17
+  },
+  {
+    "sha": "447ed55ab2728d318ee4da1d94b2a3a0991bc6ff",
+    "author": "Tairin-Munoz",
+    "commit": {
+      "date": "2025-04-29T11:10:09.000Z",
+      "message": "feat: se agrego la parte de HTML para el registro de llegada de gasolina a surtidor",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/447ed55ab2728d318ee4da1d94b2a3a0991bc6ff"
+    },
+    "stats": {
+      "total": 19,
+      "additions": 19,
+      "deletions": 0,
+      "date": "2025-04-29"
+    },
+    "coverage": 0,
+    "test_count": 17
   }
 ]
