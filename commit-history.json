@@ -406,5 +406,22 @@
     },
     "coverage": 0,
     "test_count": 21
+  },
+  {
+    "sha": "e0420acbf3afe17e36c09f1c7107945bebb0020f",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-01T17:18:27.000Z",
+      "message": "feat: agregar ubicación del surtidor E. S. El Manantial",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/e0420acbf3afe17e36c09f1c7107945bebb0020f"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 3,
+      "deletions": 1,
+      "date": "2025-05-01"
+    },
+    "coverage": 0,
+    "test_count": 21
   }
 ]
