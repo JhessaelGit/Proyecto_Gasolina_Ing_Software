@@ -287,5 +287,22 @@
     },
     "coverage": 0,
     "test_count": 21
+  },
+  {
+    "sha": "fe0d549d53955d9ace6766232a55737d0cead0f8",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-01T16:21:51.000Z",
+      "message": "style(css): agregar estilos de clase para agotado y disponible",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/fe0d549d53955d9ace6766232a55737d0cead0f8"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 11,
+      "deletions": 3,
+      "date": "2025-05-01"
+    },
+    "coverage": 0,
+    "test_count": 21
   }
 ]

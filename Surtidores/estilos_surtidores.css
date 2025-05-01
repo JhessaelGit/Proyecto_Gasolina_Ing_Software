@@ -8,5 +8,13 @@ body {
     padding: 5px 10px;
     color: white;
     border-radius: 5px;
-    background-color: green; /* Disponible por defecto */
+}
+
+/*Clase que cambia el color cuando el label dice "Agotado" o "Disponible"*/
+.disponible {
+    background-color: green;
+  }
+
+.agotado {
+    background-color: red;
 }
