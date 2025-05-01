@@ -610,5 +610,39 @@
     },
     "coverage": 0,
     "test_count": 26
+  },
+  {
+    "sha": "4944f6a9b023bd04826e37ff3484784bc3d218f4",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-01T19:42:07.000Z",
+      "message": "fix(html): corregir rutas relativas de los botones a surtidores",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/4944f6a9b023bd04826e37ff3484784bc3d218f4"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 5,
+      "deletions": 6,
+      "date": "2025-05-01"
+    },
+    "coverage": 0,
+    "test_count": 26
+  },
+  {
+    "sha": "49d4be031d70b60e12d45cac1094ad24eacb84cc",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-01T19:46:11.000Z",
+      "message": "fix(html): corregir rutas relativas de los botones a surtidores",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/49d4be031d70b60e12d45cac1094ad24eacb84cc"
+    },
+    "stats": {
+      "total": 28,
+      "additions": 22,
+      "deletions": 6,
+      "date": "2025-05-01"
+    },
+    "coverage": 0,
+    "test_count": 26
   }
 ]
