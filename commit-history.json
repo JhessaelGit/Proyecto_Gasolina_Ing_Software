@@ -389,5 +389,22 @@
     },
     "coverage": 0,
     "test_count": 21
+  },
+  {
+    "sha": "b0e062f7c27dcdf0352b4accd2e7f4d0f3ebf93f",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-01T17:13:07.000Z",
+      "message": "feat: agregar ubicación del surtidor E. S. El Cristo",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/b0e062f7c27dcdf0352b4accd2e7f4d0f3ebf93f"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 3,
+      "deletions": 1,
+      "date": "2025-05-01"
+    },
+    "coverage": 0,
+    "test_count": 21
   }
 ]
