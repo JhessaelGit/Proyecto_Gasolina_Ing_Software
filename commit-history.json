@@ -644,5 +644,22 @@
     },
     "coverage": 0,
     "test_count": 26
+  },
+  {
+    "sha": "25fe1248bd6184a17724367aa478402c726e993b",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-01T19:54:18.000Z",
+      "message": "fix: agregar type=module a la etiqueta <script> para soporte de import/export",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/25fe1248bd6184a17724367aa478402c726e993b"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 5,
+      "deletions": 5,
+      "date": "2025-05-01"
+    },
+    "coverage": 0,
+    "test_count": 26
   }
 ]
