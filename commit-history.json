@@ -508,5 +508,22 @@
     },
     "coverage": 0,
     "test_count": 21
+  },
+  {
+    "sha": "8158983bd1b1ea6264487bd8aa0766a7c69251a5",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-01T18:45:42.000Z",
+      "message": "chore(html): agregar script presenter.js al HTML de los surtidores",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/8158983bd1b1ea6264487bd8aa0766a7c69251a5"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 6,
+      "deletions": 1,
+      "date": "2025-05-01"
+    },
+    "coverage": 0,
+    "test_count": 21
   }
 ]
