@@ -457,5 +457,22 @@
     },
     "coverage": 0,
     "test_count": 21
+  },
+  {
+    "sha": "d059164631087dd25f66167c55728445dc1a106f",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-01T17:53:53.000Z",
+      "message": "feat(html): agregar horario del surtidor E. S. Aranjuez",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/d059164631087dd25f66167c55728445dc1a106f"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 5,
+      "deletions": 0,
+      "date": "2025-05-01"
+    },
+    "coverage": 0,
+    "test_count": 21
   }
 ]
