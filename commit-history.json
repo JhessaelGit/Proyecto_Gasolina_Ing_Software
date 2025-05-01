@@ -304,5 +304,22 @@
     },
     "coverage": 0,
     "test_count": 21
+  },
+  {
+    "sha": "495076096602474a412e3296dc7966e67a4b4082",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-01T16:24:11.000Z",
+      "message": "feat(html): estructura inicial para la pagina de E. S. El Manantial",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/495076096602474a412e3296dc7966e67a4b4082"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 14,
+      "deletions": 0,
+      "date": "2025-05-01"
+    },
+    "coverage": 0,
+    "test_count": 21
   }
 ]
