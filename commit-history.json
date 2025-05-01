@@ -491,5 +491,22 @@
     },
     "coverage": 0,
     "test_count": 21
+  },
+  {
+    "sha": "d5b311eb6ead6c3800502592b74769089dd09d2f",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-01T18:43:00.000Z",
+      "message": "feat: estructura inicial con separación de logica en surtidores.js y presentacion en presenter.js",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/d5b311eb6ead6c3800502592b74769089dd09d2f"
+    },
+    "stats": {
+      "total": 27,
+      "additions": 27,
+      "deletions": 0,
+      "date": "2025-05-01"
+    },
+    "coverage": 0,
+    "test_count": 21
   }
 ]
