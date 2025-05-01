@@ -236,5 +236,22 @@
     },
     "coverage": 0,
     "test_count": 21
+  },
+  {
+    "sha": "1432c226a608ddf0cda06d7923298e94b6b0e4d3",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-01T16:07:47.000Z",
+      "message": "feat(html): estructura inicial para la pagina de E. S. Aranjuez",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/1432c226a608ddf0cda06d7923298e94b6b0e4d3"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 13,
+      "deletions": 0,
+      "date": "2025-05-01"
+    },
+    "coverage": 0,
+    "test_count": 21
   }
 ]
