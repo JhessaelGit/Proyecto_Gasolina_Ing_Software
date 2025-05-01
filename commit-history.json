@@ -270,5 +270,22 @@
     },
     "coverage": 0,
     "test_count": 21
+  },
+  {
+    "sha": "a5677e1b80388c0df2e0dcc7855af3c32e9be34a",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-01T16:17:03.000Z",
+      "message": "feat(html): estructura inicial para la pagina de E. S. Los Alpes",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/a5677e1b80388c0df2e0dcc7855af3c32e9be34a"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 14,
+      "deletions": 0,
+      "date": "2025-05-01"
+    },
+    "coverage": 0,
+    "test_count": 21
   }
 ]
