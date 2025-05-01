@@ -372,5 +372,22 @@
     },
     "coverage": 0,
     "test_count": 21
+  },
+  {
+    "sha": "661c1e321e1d3dd07ec4b63374da86655cf9f4c7",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-01T17:07:48.000Z",
+      "message": "feat: agregar ubicación del surtidor E. S. Aranjuez",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/661c1e321e1d3dd07ec4b63374da86655cf9f4c7"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 4,
+      "deletions": 2,
+      "date": "2025-05-01"
+    },
+    "coverage": 0,
+    "test_count": 21
   }
 ]
