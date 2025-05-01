@@ -457,5 +457,39 @@
     },
     "coverage": 0,
     "test_count": 21
+  },
+  {
+    "sha": "01b06657a3586e816425e033770f994615f999fc",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-01T18:02:06.000Z",
+      "message": "feat: agregar horario de servico a las paginas de los surtidores",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/01b06657a3586e816425e033770f994615f999fc"
+    },
+    "stats": {
+      "total": 25,
+      "additions": 25,
+      "deletions": 0,
+      "date": "2025-05-01"
+    },
+    "coverage": 0,
+    "test_count": 21
+  },
+  {
+    "sha": "effcf5bbbc4b1143ddf2e2d6bc0165fcd7c651ff",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-01T18:03:21.000Z",
+      "message": "feat(html): agregar horario de servico a las paginas de los surtidores",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/effcf5bbbc4b1143ddf2e2d6bc0165fcd7c651ff"
+    },
+    "stats": {
+      "total": 42,
+      "additions": 42,
+      "deletions": 0,
+      "date": "2025-05-01"
+    },
+    "coverage": 0,
+    "test_count": 21
   }
 ]
