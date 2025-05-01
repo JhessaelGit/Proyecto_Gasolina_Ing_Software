@@ -12,7 +12,4 @@ describe("Pruebas para verificar el cambio de hora",() => {
     it("Si la hora pasada las 10pm (22pm) deberia retornar false", () => {
         expect(actualizarEstadoHorario(23)).toEqual(false)
     })
-    it("Si la hora es 8am deberia retornar false", () => {
-        expect(actualizarEstadoHorario(23)).toEqual(false)
-    })
 })
