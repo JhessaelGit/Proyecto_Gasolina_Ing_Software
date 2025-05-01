@@ -253,5 +253,22 @@
     },
     "coverage": 0,
     "test_count": 21
+  },
+  {
+    "sha": "96b4724b0ffa02b014cef8b233c4fd11c3213d93",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-01T16:13:54.000Z",
+      "message": "style(css): agregar estilos iniciales a los surtidores",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/96b4724b0ffa02b014cef8b233c4fd11c3213d93"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 13,
+      "deletions": 0,
+      "date": "2025-05-01"
+    },
+    "coverage": 0,
+    "test_count": 21
   }
 ]
