@@ -338,5 +338,22 @@
     },
     "coverage": 0,
     "test_count": 21
+  },
+  {
+    "sha": "1b2d33359c7fda67a1493f720d50d036d2879691",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-01T16:26:43.000Z",
+      "message": "feat(html): estructura inicial para la pagina de E. S. Portales",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/1b2d33359c7fda67a1493f720d50d036d2879691"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 14,
+      "deletions": 0,
+      "date": "2025-05-01"
+    },
+    "coverage": 0,
+    "test_count": 21
   }
 ]
