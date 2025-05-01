@@ -559,5 +559,22 @@
     },
     "coverage": 0,
     "test_count": 23
+  },
+  {
+    "sha": "364d45e1b81c28bd4c67711213d5fa5ac5d01f2e",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-01T18:53:38.000Z",
+      "message": "test(surtidores): agregar prueba unitaria para las 10pm",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/364d45e1b81c28bd4c67711213d5fa5ac5d01f2e"
+    },
+    "stats": {
+      "total": 3,
+      "additions": 3,
+      "deletions": 0,
+      "date": "2025-05-01"
+    },
+    "coverage": 0,
+    "test_count": 24
   }
 ]
