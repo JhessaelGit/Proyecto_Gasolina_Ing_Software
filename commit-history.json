@@ -440,5 +440,22 @@
     },
     "coverage": 0,
     "test_count": 21
+  },
+  {
+    "sha": "d698fba3d72f5403ba74969e806f843962cbcd75",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-01T17:22:26.000Z",
+      "message": "feat: agregar ubicación del surtidor E. S. Portales",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/d698fba3d72f5403ba74969e806f843962cbcd75"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 3,
+      "deletions": 1,
+      "date": "2025-05-01"
+    },
+    "coverage": 0,
+    "test_count": 21
   }
 ]
