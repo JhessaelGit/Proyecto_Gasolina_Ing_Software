@@ -355,5 +355,22 @@
     },
     "coverage": 0,
     "test_count": 21
+  },
+  {
+    "sha": "843595627852eef3341024a747925c7ab167612e",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-01T16:32:48.000Z",
+      "message": "style(css): agregar estilo para h1 en los nombres de los surtidores",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/843595627852eef3341024a747925c7ab167612e"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 7,
+      "deletions": 1,
+      "date": "2025-05-01"
+    },
+    "coverage": 0,
+    "test_count": 21
   }
 ]

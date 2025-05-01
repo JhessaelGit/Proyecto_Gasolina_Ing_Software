@@ -2,7 +2,13 @@ body {
     font-family: Arial, sans-serif;
     padding: 20px;
   }
-
+h1 {
+    text-align: center; /* Centra el texto */
+    font-size: 3em;
+    font-weight: bold; /* Pone el texto en negrita */
+    margin-top: 50px; /* Espacio superior para separarlo un poco */
+    margin-bottom: 20px; /* Espacio inferior */
+}
 #estado-actual {
     font-weight: bold;
     padding: 5px 10px;
