@@ -525,5 +525,22 @@
     },
     "coverage": 0,
     "test_count": 21
+  },
+  {
+    "sha": "cf72160aed001c7a1491dd99c8f29b0b4570c5bc",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-01T18:49:54.000Z",
+      "message": "test(surtidores): agregar prueba unitaria para horario antes de apertura",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/cf72160aed001c7a1491dd99c8f29b0b4570c5bc"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 6,
+      "deletions": 0,
+      "date": "2025-05-01"
+    },
+    "coverage": 0,
+    "test_count": 22
   }
 ]
