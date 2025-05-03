@@ -661,5 +661,22 @@
     },
     "coverage": 0,
     "test_count": 26
+  },
+  {
+    "sha": "b162bb64f136eea3d307c282cebf8c64b18345b3",
+    "author": "melanytorrez",
+    "commit": {
+      "date": "2025-05-03T23:57:33.000Z",
+      "message": "test: verificar disponibilidad de gasolina",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/b162bb64f136eea3d307c282cebf8c64b18345b3"
+    },
+    "stats": {
+      "total": 25,
+      "additions": 23,
+      "deletions": 2,
+      "date": "2025-05-03"
+    },
+    "coverage": 0,
+    "test_count": 28
   }
 ]
