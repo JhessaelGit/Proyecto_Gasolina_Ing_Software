@@ -763,5 +763,22 @@
     },
     "coverage": 0,
     "test_count": 31
+  },
+  {
+    "sha": "82efd3194789619a2ae02d67f37dd87a53d3cf7f",
+    "author": "melanytorrez",
+    "commit": {
+      "date": "2025-05-04T15:05:07.000Z",
+      "message": "style:dando estilo al la pagina de tickets",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/82efd3194789619a2ae02d67f37dd87a53d3cf7f"
+    },
+    "stats": {
+      "total": 44,
+      "additions": 40,
+      "deletions": 4,
+      "date": "2025-05-04"
+    },
+    "coverage": 0,
+    "test_count": 31
   }
 ]
