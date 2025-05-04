@@ -35,5 +35,18 @@ describe("Generación básica de ticket", () => {
     
         expect(ticket.estado).toBe("Disponible");
       });
+
+      it("Debe generar un código alfanumérico único con formato TK-XXXXXX", () => {
+        const datos = {
+          nombre: "E. S. Aranjuez",
+          ubicacion: "Avenida Circunvalacion entre calle Los Olivios",
+          estado: "Disponible"
+        };
+    
+        const ticket = generarTicket(datos);
+    
+        expect(ticket.codigo).toMatch(/^TK-[A-Z0-9]{6}$/);
+      });
+    
     
   });
