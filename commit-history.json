@@ -661,5 +661,22 @@
     },
     "coverage": 0,
     "test_count": 26
+  },
+  {
+    "sha": "71e62281b13c9ccc7231a895b463b32db81e6ad4",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-05-04T23:43:46.000Z",
+      "message": "fix: el package.json ahora agrega todos los archivos necesarios para ejecutar",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/71e62281b13c9ccc7231a895b463b32db81e6ad4"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 2,
+      "deletions": 2,
+      "date": "2025-05-04"
+    },
+    "coverage": 0,
+    "test_count": 26
   }
 ]
