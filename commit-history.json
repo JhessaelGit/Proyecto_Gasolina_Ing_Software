@@ -695,5 +695,22 @@
     },
     "coverage": 0,
     "test_count": 29
+  },
+  {
+    "sha": "9fb9bcb61dc8deee627cf9054b0cbd90e25e990c",
+    "author": "melanytorrez",
+    "commit": {
+      "date": "2025-05-04T00:21:16.000Z",
+      "message": "test: agregar estado al ticket generado",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/9fb9bcb61dc8deee627cf9054b0cbd90e25e990c"
+    },
+    "stats": {
+      "total": 19,
+      "additions": 17,
+      "deletions": 2,
+      "date": "2025-05-04"
+    },
+    "coverage": 0,
+    "test_count": 30
   }
 ]

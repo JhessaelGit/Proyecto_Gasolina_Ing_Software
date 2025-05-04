@@ -23,4 +23,17 @@ describe("Generación básica de ticket", () => {
       expect(ticket.nombre).toBe("E. S. Aranjuez");
       expect(ticket.ubicacion).toBe("Avenida Circunvalacion entre calle Los Olivios");
     });
+
+    it("Debe incluir el estado del surtidor", () => {
+        const datos = {
+          nombre: "E. S. Aranjuez",
+          ubicacion: "Avenida Circunvalacion entre calle Los Olivios",
+          estado: "Disponible"
+        };
+    
+        const ticket = generarTicket(datos);
+    
+        expect(ticket.estado).toBe("Disponible");
+      });
+    
   });
