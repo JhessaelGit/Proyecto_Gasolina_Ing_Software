@@ -678,5 +678,22 @@
     },
     "coverage": 0,
     "test_count": 28
+  },
+  {
+    "sha": "2499f9ecce5cd6d84e301a549a81f5af36594918",
+    "author": "melanytorrez",
+    "commit": {
+      "date": "2025-05-04T00:18:32.000Z",
+      "message": "test: generar ticket con nombre y ubicación",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/2499f9ecce5cd6d84e301a549a81f5af36594918"
+    },
+    "stats": {
+      "total": 30,
+      "additions": 27,
+      "deletions": 3,
+      "date": "2025-05-04"
+    },
+    "coverage": 0,
+    "test_count": 29
   }
 ]

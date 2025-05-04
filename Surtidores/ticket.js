@@ -1,6 +1,15 @@
 function verificarDisponibilidad(estado) {
     return estado === "Disponible";
-  }
+}
+
+function generarTicket({nombre, ubicacion}) {
+    return {
+      nombre,
+      ubicacion
+    };
+}
   
-  export {verificarDisponibilidad};
+
+export {verificarDisponibilidad,generarTicket};
+
   
