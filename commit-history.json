@@ -678,5 +678,22 @@
     },
     "coverage": 0,
     "test_count": 26
+  },
+  {
+    "sha": "3d6d03e610722d6e9f866900fde5063dda73dfc5",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-05-05T00:46:07.000Z",
+      "message": "fix (package.json): se corrigio el build para que agregue los js de las carpetas",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/3d6d03e610722d6e9f866900fde5063dda73dfc5"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
+      "deletions": 1,
+      "date": "2025-05-05"
+    },
+    "coverage": 0,
+    "test_count": 26
   }
 ]
