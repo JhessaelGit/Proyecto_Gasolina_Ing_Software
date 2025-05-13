@@ -20,9 +20,9 @@ function verificar_ci(ci_usuario)
 {
     const el_ci_no_esta_vacio = El_string_no_esta_vacio(ci_usuario)
     const el_ci_tiene_solo_numeros = El_string_solo_tiene_numeros(ci_usuario)    
-    const el_ci_tiene_8_digitos = (ci_usuario || "").length === 7 
+    const el_ci_tiene_7_digitos = (ci_usuario || "").length === 7 
     
-    const el_ci_es_valido = el_ci_no_esta_vacio && el_ci_tiene_solo_numeros && el_ci_tiene_8_digitos
+    const el_ci_es_valido = el_ci_no_esta_vacio && el_ci_tiene_solo_numeros && el_ci_tiene_7_digitos
     return el_ci_es_valido
 }
 

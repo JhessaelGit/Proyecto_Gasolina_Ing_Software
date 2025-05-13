@@ -32,5 +32,22 @@
     },
     "coverage": 0,
     "test_count": 52
+  },
+  {
+    "sha": "f80202541756b022900e7f17ea081801db5945ef",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-13T13:54:10.000Z",
+      "message": "fix<verificar_campos.js>: se corrigio el nombre de una variable",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/f80202541756b022900e7f17ea081801db5945ef"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 2,
+      "deletions": 2,
+      "date": "2025-05-13"
+    },
+    "coverage": 0,
+    "test_count": 31
   }
 ]
