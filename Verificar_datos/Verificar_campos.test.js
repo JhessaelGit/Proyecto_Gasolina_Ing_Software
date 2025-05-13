@@ -17,16 +17,16 @@ describe("Pruebas para verificar el ci",() => {
         expect(verificar_ci("")).toEqual(false)
     })
     it("Si el campo del ci esta con un valor deveria devolver true", () => {
-        expect(verificar_ci("12345678")).toEqual(true)
+        expect(verificar_ci("1234567")).toEqual(true)
     })
     it("Si el campo del ci esta vacio deveria devolver un false", () => {
         expect(verificar_ci()).toEqual(false)
     })
     it("Si el campo del ci tiene un dato que no sean numeros deveria devolver un false", () => {
-        expect(verificar_ci("1234n234")).toEqual(false)
+        expect(verificar_ci("1234n24")).toEqual(false)
     })
     it("Si el campo del ci tiene solo numeros deveria devolver un true", () => {
-        expect(verificar_ci("12343234")).toEqual(true)
+        expect(verificar_ci("1234334")).toEqual(true)
     })
     it("Si el campo del ci tiene menos o mas de 8 digitos deveria devolver un false", () => {
         expect(verificar_ci("12343")).toEqual(false)

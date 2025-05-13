@@ -15,5 +15,22 @@
     },
     "coverage": 0,
     "test_count": 31
+  },
+  {
+    "sha": "119aebb168523ccdd0952cc4c0efff0132312eed",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-05-13T13:18:14.000Z",
+      "message": "Fix: Se corrigio el codigo para verificar el Ci",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/119aebb168523ccdd0952cc4c0efff0132312eed"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 4,
+      "deletions": 4,
+      "date": "2025-05-13"
+    },
+    "coverage": 0,
+    "test_count": 52
   }
 ]
