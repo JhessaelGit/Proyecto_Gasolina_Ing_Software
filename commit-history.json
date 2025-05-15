@@ -51,6 +51,23 @@
     "test_count": 31
   },
   {
+    "sha": "940b7cbd19f2112af6d84cd14bc805bf3b343aef",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-15T13:55:57.000Z",
+      "message": "refactor <Surtidores>: Cambio de nombre de la funcion actualizar estado horario a esta_dentro_horario",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/940b7cbd19f2112af6d84cd14bc805bf3b343aef"
+    },
+    "stats": {
+      "total": 20,
+      "additions": 10,
+      "deletions": 10,
+      "date": "2025-05-15"
+    },
+    "coverage": 0,
+    "test_count": 31
+  },
+  {
     "sha": "a8c609b0c69bc363a717a3fdf545fbc4220953e5",
     "author": "Jhessael Siancas",
     "commit": {
@@ -83,5 +100,22 @@
     },
     "coverage": 0,
     "test_count": 52
+  },
+  {
+    "sha": "61d1c2a4d55edf6c26ad4956599c445263e2f15a",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-15T14:27:00.000Z",
+      "message": "Merge branch 'refactor_surtidores'",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/61d1c2a4d55edf6c26ad4956599c445263e2f15a"
+    },
+    "stats": {
+      "total": 37,
+      "additions": 27,
+      "deletions": 10,
+      "date": "2025-05-15"
+    },
+    "coverage": 0,
+    "test_count": 31
   }
 ]
