@@ -49,5 +49,22 @@
     },
     "coverage": 0,
     "test_count": 31
+  },
+  {
+    "sha": "940b7cbd19f2112af6d84cd14bc805bf3b343aef",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-15T13:55:57.000Z",
+      "message": "refactor <Surtidores>: Cambio de nombre de la funcion actualizar estado horario a esta_dentro_horario",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/940b7cbd19f2112af6d84cd14bc805bf3b343aef"
+    },
+    "stats": {
+      "total": 20,
+      "additions": 10,
+      "deletions": 10,
+      "date": "2025-05-15"
+    },
+    "coverage": 0,
+    "test_count": 31
   }
 ]
