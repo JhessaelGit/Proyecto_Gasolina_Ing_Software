@@ -49,5 +49,22 @@
     },
     "coverage": 0,
     "test_count": 31
+  },
+  {
+    "sha": "a8c609b0c69bc363a717a3fdf545fbc4220953e5",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-05-15T14:01:37.000Z",
+      "message": "Refactor: Se renombro la carpeta de verificar datos de registro",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/a8c609b0c69bc363a717a3fdf545fbc4220953e5"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 3,
+      "deletions": 3,
+      "date": "2025-05-15"
+    },
+    "coverage": 0,
+    "test_count": 52
   }
 ]

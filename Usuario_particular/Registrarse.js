@@ -1,4 +1,4 @@
-import { verificar_ci, verificar_contrasenia, verificar_correo, verificar_nombre } from "../Verificar_datos/Verificar_campos.js";
+import { verificar_ci, verificar_contrasenia, verificar_correo, verificar_nombre } from "../Verificar_datos_registro/Verificar_campos.js";
 const nombre_usuario = document.querySelector("#nombre-usuario");
 const ci_usuario = document.querySelector("#ci-usuario");
 const correo_usuario = document.querySelector("#correo-usuario");

@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html Surtidores/*.html Usuario_Administrador_Surtidor/*.html Usuario_particular/*.html Verificar_datos/*.html Verificar_datos/*.js",
+    "build": "parcel build index.html Surtidores/*.html Usuario_Administrador_Surtidor/*.html Usuario_particular/*.html Verificar_datos_registro/*.html Verificar_datos/*.js",
     "test": "node ./script/tddScript.js",
     "test-once": "jest Verificar_campos.test.js",
     "cypress": "cypress open",
