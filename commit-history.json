@@ -66,5 +66,22 @@
     },
     "coverage": 0,
     "test_count": 52
+  },
+  {
+    "sha": "a14e98552a175a6171508277ddfd322ed1fdc172",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-05-15T14:09:45.000Z",
+      "message": "Refactor<index.html>: Se cambio el titulo para que se entienda quien es el que se esta registrando",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/a14e98552a175a6171508277ddfd322ed1fdc172"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 2,
+      "deletions": 2,
+      "date": "2025-05-15"
+    },
+    "coverage": 0,
+    "test_count": 52
   }
 ]
