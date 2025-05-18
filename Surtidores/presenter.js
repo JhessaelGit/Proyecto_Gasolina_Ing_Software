@@ -1,50 +1,39 @@
-import {actualizarEstadoHorario} from './surtidores.js';
+import { actualizarEstadoHorario } from './surtidores.js';
+import { generarTicket } from './ticket.js';
+
 const hoy = new Date();
-const horaActual = hoy.getHours();
+const horaActual = new Date().getHours();
 const estadoHorario = document.getElementById("estado-horario");
 
 function mostrar_horario_Actual() {
-    if (actualizarEstadoHorario(horaActual)){
+    if (actualizarEstadoHorario(horaActual)) {
         estadoHorario.textContent = "Actualmente abierto";
-    }
-    else{
+    } else {
         estadoHorario.textContent = "Actualmente cerrado";
     }
 }
 
-// Llamada inicial al cargar la página
 mostrar_horario_Actual();
+setInterval(mostrar_horario_Actual, 60000);
 
-// Verifica el horario cada minuto (60,000 ms)
-setInterval(mostrar_horario_Actual(), 60000);
-
-//////////////////////////////////////////////////////
-
-import {generarTicket} from './ticket.js';
-
+// BOTÓN DE TICKET
 const botonTicket = document.getElementById("btn-ticket");
 
 if (botonTicket) {
   botonTicket.addEventListener("click", () => {
     const estado = document.getElementById("estado-actual").textContent;
-    
+
     if (estado === "Agotado") {
       alert("Este surtidor no tiene combustible. Por favor, elige otro.");
       return;
     }
 
-    const datosSurtidor = {
-      nombre: "E. S. Aranjuez",
-      ubicacion: "Avenida Circunvalacion entre calle Los Olivios",
-      estado: estado
-    };
+    const nombre = document.querySelector("h1").textContent;
+    const ubicacion = document.querySelectorAll("p")[1].textContent;
 
-    const ticket = generarTicket(datosSurtidor);
+    const ticket = generarTicket({ nombre, ubicacion, estado });
 
-    // Guardar el ticket en localStorage
     localStorage.setItem("ticketActual", JSON.stringify(ticket));
-
-    // Redirigir a la página del ticket
     window.location.href = "ticket.html";
   });
 }

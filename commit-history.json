@@ -83,5 +83,22 @@
     },
     "coverage": 0,
     "test_count": 52
+  },
+  {
+    "sha": "6dcc6dfa525f10a61cb5f65a7aea28803b254f28",
+    "author": "melanytorrez",
+    "commit": {
+      "date": "2025-05-18T03:57:45.000Z",
+      "message": "feat:Añadir botón de solicitud de ticket en todos los surtidores",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/6dcc6dfa525f10a61cb5f65a7aea28803b254f28"
+    },
+    "stats": {
+      "total": 80,
+      "additions": 42,
+      "deletions": 38,
+      "date": "2025-05-18"
+    },
+    "coverage": 0,
+    "test_count": 52
   }
 ]
