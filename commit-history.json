@@ -102,18 +102,35 @@
     "test_count": 52
   },
   {
-    "sha": "61d1c2a4d55edf6c26ad4956599c445263e2f15a",
-    "author": "Diego Rios",
+    "sha": "6dcc6dfa525f10a61cb5f65a7aea28803b254f28",
+    "author": "melanytorrez",
     "commit": {
-      "date": "2025-05-15T14:27:00.000Z",
-      "message": "Merge branch 'refactor_surtidores'",
-      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/61d1c2a4d55edf6c26ad4956599c445263e2f15a"
+      "date": "2025-05-18T03:57:45.000Z",
+      "message": "feat:Añadir botón de solicitud de ticket en todos los surtidores",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/6dcc6dfa525f10a61cb5f65a7aea28803b254f28"
     },
     "stats": {
-      "total": 37,
-      "additions": 27,
-      "deletions": 10,
-      "date": "2025-05-15"
+      "total": 80,
+      "additions": 42,
+      "deletions": 38,
+      "date": "2025-05-18"
+    },
+    "coverage": 0,
+    "test_count": 52
+  },
+  {
+    "sha": "aaace58e050aa106fd6ebdec987b6d2d56faf2d6",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-18T16:45:48.000Z",
+      "message": "Merge branch 'main' of https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/aaace58e050aa106fd6ebdec987b6d2d56faf2d6"
+    },
+    "stats": {
+      "total": 100,
+      "additions": 52,
+      "deletions": 48,
+      "date": "2025-05-18"
     },
     "coverage": 0,
     "test_count": 31
