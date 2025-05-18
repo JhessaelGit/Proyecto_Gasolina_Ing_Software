@@ -6,7 +6,8 @@
 }
 
 .botones button {
-    padding: 10px;
+    width: 220px; 
+    padding: 14px 10px;
     font-size: 16px;
     cursor: pointer;
     background-color: #f0f0f0;
@@ -17,4 +18,11 @@
 
 .botones button:hover {
     background-color: #fa8080; /* Color al pasar el mouse */
+}
+
+.surtidor {
+  display: flex;
+  align-items: center; /* centra verticalmente */
+  gap: 20px; /* espacio entre boton y label */
+  margin-bottom: 10px; /* espacio entre surtidores */
 }

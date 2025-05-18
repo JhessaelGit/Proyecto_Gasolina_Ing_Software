@@ -11,6 +11,7 @@ h1 {
 }
 #estado-actual {
     font-weight: bold;
+    font-size: 14px;  
     padding: 5px 10px;
     color: white;
     border-radius: 5px;

@@ -151,5 +151,22 @@
     },
     "coverage": 0,
     "test_count": 31
+  },
+  {
+    "sha": "ded3941af8c696179ec83d05b58d395ac1652ea7",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-18T20:49:31.000Z",
+      "message": "style: mejora visual en botones y etiquetas de estado de surtidores, en vista usuario y administrador",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/ded3941af8c696179ec83d05b58d395ac1652ea7"
+    },
+    "stats": {
+      "total": 64,
+      "additions": 53,
+      "deletions": 11,
+      "date": "2025-05-18"
+    },
+    "coverage": 0,
+    "test_count": 31
   }
 ]
