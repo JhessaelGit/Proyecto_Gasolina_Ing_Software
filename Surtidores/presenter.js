@@ -1,4 +1,4 @@
-import { actualizarEstadoHorario } from './surtidores.js';
+import { esta_dentro_horario } from './surtidores.js';
 import { generarTicket } from './ticket.js';
 
 const hoy = new Date();
@@ -6,7 +6,7 @@ const horaActual = new Date().getHours();
 const estadoHorario = document.getElementById("estado-horario");
 
 function mostrar_horario_Actual() {
-    if (actualizarEstadoHorario(horaActual)) {
+    if (esta_dentro_horario(horaActual)) {
         estadoHorario.textContent = "Actualmente abierto";
     } else {
         estadoHorario.textContent = "Actualmente cerrado";

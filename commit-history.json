@@ -134,5 +134,22 @@
     },
     "coverage": 0,
     "test_count": 31
+  },
+  {
+    "sha": "7f844d90255098c4a5f44a3bffa005b3861a90cf",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-18T18:08:59.000Z",
+      "message": "feat(admin): agregar vistas HTML y estructura para administrador",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/7f844d90255098c4a5f44a3bffa005b3861a90cf"
+    },
+    "stats": {
+      "total": 214,
+      "additions": 193,
+      "deletions": 21,
+      "date": "2025-05-18"
+    },
+    "coverage": 0,
+    "test_count": 31
   }
 ]
