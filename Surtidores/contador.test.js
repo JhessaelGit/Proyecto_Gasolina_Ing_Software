@@ -10,4 +10,9 @@ describe("Lógica del contador de autos en fila", () => {
     expect(decrementarContador(3)).toBe(2);
     expect(decrementarContador(1)).toBe(0);
   });
+  
+  it("No debe decrementar debajo de 0", () => {
+    expect(decrementarContador(0)).toBe(0);
+    expect(decrementarContador(-1)).toBe(0);
+  });
 });
