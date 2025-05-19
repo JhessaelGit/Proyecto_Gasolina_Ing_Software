@@ -287,5 +287,22 @@
     },
     "coverage": 0,
     "test_count": 34
+  },
+  {
+    "sha": "ecdab85d4fc107961a1bc29de7f9178e51cf3a76",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-05-19T18:22:06.000Z",
+      "message": "Feat: cuando el usuario ingresa un ticket Existente se le muestra el mensaje 'se cancelo correctamente el ticket'",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/ecdab85d4fc107961a1bc29de7f9178e51cf3a76"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 13,
+      "deletions": 0,
+      "date": "2025-05-19"
+    },
+    "coverage": 0,
+    "test_count": 34
   }
 ]
