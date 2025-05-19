@@ -1,5 +1,6 @@
 import { esta_dentro_horario } from './surtidores.js';
 import { generarTicket } from './ticket.js';
+import { incrementarContador, decrementarContador } from './contador.js';
 
 const hoy = new Date();
 const horaActual = new Date().getHours();
@@ -37,4 +38,29 @@ if (botonTicket) {
     window.location.href = "ticket.html";
   });
 }
+
+// CONTADOR DE FILA
+
+const nombreSurtidor = document.querySelector("h1")?.textContent ?? "Surtidor";
+const keyContador = `contadorFila-${nombreSurtidor.replace(/\s+/g, '_')}`;
+
+const contadorElemento = document.getElementById("contador-fila");
+const btnIngresar = document.getElementById("btn-ingresar-fila");
+const btnSalir = document.getElementById("btn-salir-fila");
+
+let contador = parseInt(localStorage.getItem(keyContador)) || 0;
+if (contadorElemento) contadorElemento.textContent = contador;
+
+function actualizarContador(valor) {
+  if (valor === 1) {
+    contador = incrementarContador(contador);
+  } else if (valor === -1) {
+    contador = decrementarContador(contador);
+  }
+  if (contadorElemento) contadorElemento.textContent = contador;
+  localStorage.setItem(keyContador, contador);
+}
+
+btnIngresar?.addEventListener("click", () => actualizarContador(1));
+btnSalir?.addEventListener("click", () => actualizarContador(-1));
 

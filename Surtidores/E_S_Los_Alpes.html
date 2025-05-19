@@ -1,18 +1,20 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>E. S. Los Alpes</title>
     <link rel="stylesheet" href="estilos_surtidores.css">
 </head>
+
 <body>
     <h1>E. S. Los Alpes</h1>
 
     <p><strong>Ubicación del Surtidor:</strong></p>
     <p>Avenida 23 de Mayo y calle Los Molles</p>
-    
-    <p><strong>Estado:</strong></p> 
+
+    <p><strong>Estado:</strong></p>
     <label id="estado-actual" class="agotado">Agotado</label>
     <div id="horario">
         <p><strong>Horario de atención:</strong></p>
@@ -21,6 +23,13 @@
     </div>
     <button id="btn-ticket">Solicitar Ticket</button>
 
-    <script type="module"src="presenter.js"></script>
+    <div id="contenedor-fila">
+        <p><strong>Autos en fila:</strong> <span id="contador-fila">0</span></p>
+        <button id="btn-ingresar-fila">Ingresar a la fila</button>
+        <button id="btn-salir-fila">Salir de la fila</button>
+    </div>
+
+    <script type="module" src="presenter.js"></script>
 </body>
+
 </html>

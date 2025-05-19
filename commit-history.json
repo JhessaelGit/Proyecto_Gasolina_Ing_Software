@@ -253,5 +253,22 @@
     },
     "coverage": 0,
     "test_count": 55
+  },
+  {
+    "sha": "c541cb74697932dba34faf5abbf2cd97fc28842d",
+    "author": "melanytorrez",
+    "commit": {
+      "date": "2025-05-19T03:38:29.000Z",
+      "message": "feat: aplicando la logica y los botones para entrar y salir de la fila",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/c541cb74697932dba34faf5abbf2cd97fc28842d"
+    },
+    "stats": {
+      "total": 98,
+      "additions": 83,
+      "deletions": 15,
+      "date": "2025-05-19"
+    },
+    "coverage": 0,
+    "test_count": 55
   }
 ]
