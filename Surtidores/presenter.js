@@ -37,3 +37,4 @@ if (botonTicket) {
     window.location.href = "ticket.html";
   });
 }
+
