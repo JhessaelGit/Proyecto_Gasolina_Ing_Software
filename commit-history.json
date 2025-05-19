@@ -185,5 +185,22 @@
     },
     "coverage": 0,
     "test_count": 31
+  },
+  {
+    "sha": "c9ec6967169232117a20959eddf27207be5d51af",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-05-19T02:46:28.000Z",
+      "message": "Fix: Se agrego las conecciones para que la lista del administrador funcione",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/c9ec6967169232117a20959eddf27207be5d51af"
+    },
+    "stats": {
+      "total": 42,
+      "additions": 21,
+      "deletions": 21,
+      "date": "2025-05-19"
+    },
+    "coverage": 0,
+    "test_count": 31
   }
 ]
