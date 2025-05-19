@@ -219,5 +219,22 @@
     },
     "coverage": 0,
     "test_count": 53
+  },
+  {
+    "sha": "e0385b60bcd075da8c6fb2df296ca167edea8c5a",
+    "author": "melanytorrez",
+    "commit": {
+      "date": "2025-05-19T03:29:17.000Z",
+      "message": "test: decrementar contador en 1",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/e0385b60bcd075da8c6fb2df296ca167edea8c5a"
+    },
+    "stats": {
+      "total": 12,
+      "additions": 10,
+      "deletions": 2,
+      "date": "2025-05-19"
+    },
+    "coverage": 0,
+    "test_count": 54
   }
 ]
