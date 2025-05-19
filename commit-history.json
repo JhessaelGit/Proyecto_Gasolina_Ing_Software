@@ -304,5 +304,22 @@
     },
     "coverage": 0,
     "test_count": 34
+  },
+  {
+    "sha": "4188fea06cd9c39c7240402a922b7a0b87cd0a3a",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-05-19T18:22:48.000Z",
+      "message": "Feat: Cuando el administrador ingresa un ticket incorrecto o que no existe se muestra el mensaje 'El ticket ingresado no existe'",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/4188fea06cd9c39c7240402a922b7a0b87cd0a3a"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 4,
+      "deletions": 1,
+      "date": "2025-05-19"
+    },
+    "coverage": 0,
+    "test_count": 34
   }
 ]

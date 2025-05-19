@@ -8,5 +8,8 @@ boton_cancelar.addEventListener("click",(event)=>{
     {
         alert("El Ticket fue cancelado Exitosamente");
     }
-    
+    else
+    {
+        alert("El Ticket No Existe");
+    }
 })
