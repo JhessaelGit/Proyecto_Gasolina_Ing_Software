@@ -321,5 +321,22 @@
     },
     "coverage": 0,
     "test_count": 34
+  },
+  {
+    "sha": "4eb525bfaa030543b22700b59beaaa5aebad987b",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-05-19T18:27:53.000Z",
+      "message": "Feat: Se agrego la funcion de cancelar tickets a todos los surtidores",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/4eb525bfaa030543b22700b59beaaa5aebad987b"
+    },
+    "stats": {
+      "total": 31,
+      "additions": 31,
+      "deletions": 0,
+      "date": "2025-05-19"
+    },
+    "coverage": 0,
+    "test_count": 34
   }
 ]
