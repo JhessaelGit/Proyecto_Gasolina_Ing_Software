@@ -270,5 +270,22 @@
     },
     "coverage": 0,
     "test_count": 55
+  },
+  {
+    "sha": "371e74af50ba935903d15f8f302d84a6a0b58915",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-05-19T18:07:28.000Z",
+      "message": "Feat: Se agrego al surtidor Aranjuez los espacios para cancelar el ticket",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/371e74af50ba935903d15f8f302d84a6a0b58915"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 7,
+      "deletions": 1,
+      "date": "2025-05-19"
+    },
+    "coverage": 0,
+    "test_count": 34
   }
 ]

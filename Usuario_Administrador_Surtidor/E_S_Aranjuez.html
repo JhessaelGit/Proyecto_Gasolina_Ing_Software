@@ -25,7 +25,13 @@
         <input type="number" id="cantidad-gasolina" required />
         <input type="submit" value="Registrar" id="registrar-llegada-gasolina-button"/>
     </form>
-    
+    <h2>Cancelar ticket</h2>
+    <form id="cancelar-ticket">
+        <label for="codigo-ticket">Ingrese el codigo del ticket a cancelar</label>
+        <input type="text" id="codigo-ticket">
+        <input type="submit" id="cancelar-button">
+    </form>
+
     <div id="resultado-div"></div>
     <script type="module" src="./registro_llegada_gasolina.js"></script>
     <script type="module" src="../Surtidores/surtidores.js"></script>
