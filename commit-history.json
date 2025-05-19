@@ -168,5 +168,22 @@
     },
     "coverage": 0,
     "test_count": 31
+  },
+  {
+    "sha": "6d44d8eeb384984ab81e566e1835bcb040e76088",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-05-19T02:25:45.000Z",
+      "message": "Feat: Se agrego la opcion de filtrar los surtidores por disponibilidad",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/6d44d8eeb384984ab81e566e1835bcb040e76088"
+    },
+    "stats": {
+      "total": 34,
+      "additions": 34,
+      "deletions": 0,
+      "date": "2025-05-19"
+    },
+    "coverage": 0,
+    "test_count": 31
   }
 ]

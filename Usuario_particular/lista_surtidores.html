@@ -8,6 +8,14 @@
 </head>
 <body>
     <h1>Lista de Surtidores</h1>
+    <div>
+        <label for="filtrado">Mostrar Surtidores</label>
+        <select name="opcion-filtrado" id="opcion-filtrado">
+            <option value="todos">Todos</option>
+            <option value="disponibles">Disponibles</option>
+        </select>
+        <button id="button-filtrar">Filtrar</button>
+    </div>
     <div class="botones">
         <div class="surtidor">
             <button onclick="location.href='../Surtidores/E_S_Aranjuez.html'">E. S. Aranjuez</button>
@@ -30,5 +38,6 @@
             <label id="estado-actual" class="disponible">Disponible</label>
         </div>
     </div>
+    <script src="./Filtrar_surtidores.js"></script>
 </body>
 </html>
