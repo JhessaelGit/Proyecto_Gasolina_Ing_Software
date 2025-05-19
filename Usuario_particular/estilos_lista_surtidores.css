@@ -1,28 +1,97 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 40px;
+}
+
+h1 {
+  text-align: center;
+  color: #b30000;
+  margin-bottom: 30px;
+}
+
+/* Filtro */
+div > label,
+#opcion-filtrado,
+#button-filtrar {
+  font-size: 16px;
+  margin: 0 5px;
+}
+
+#opcion-filtrado {
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+#button-filtrar {
+  background-color: #cc0000;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#button-filtrar:hover {
+  background-color: #a50000;
+}
+
+/* Lista de surtidores */
 .botones {
-    display: flex;
-    flex-direction: column;
-    gap: 10px; /* Espacio entre botones */
-    max-width: 300px; /* Ancho */
-}
-
-.botones button {
-    width: 220px; 
-    padding: 14px 10px;
-    font-size: 16px;
-    cursor: pointer;
-    background-color: #f0f0f0;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    transition: background-color 0.3s;
-}
-
-.botones button:hover {
-    background-color: #fa8080; /* Color al pasar el mouse */
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  max-width: 400px;
+  margin: 40px auto 0 auto;
 }
 
 .surtidor {
   display: flex;
-  align-items: center; /* centra verticalmente */
-  gap: 20px; /* espacio entre boton y label */
-  margin-bottom: 10px; /* espacio entre surtidores */
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  padding: 12px 16px;
+  border: 2px solid #cc0000;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.surtidor button {
+  background-color: #ffffff;
+  color: #cc0000;
+  border: 2px solid #cc0000;
+  padding: 10px 20px;
+  font-weight: bold;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.surtidor button:hover {
+  background-color: #cc0000;
+  color: #ffffff;
+}
+
+/* Estados */
+#estado-actual {
+  font-weight: bold;
+  padding: 6px 12px;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.disponible {
+  background-color: #d4edda;
+  color: #155724;
+  border: 1px solid #c3e6cb;
+}
+
+.agotado {
+  background-color: #f8d7da;
+  color: #721c24;
+  border: 1px solid #f5c6cb;
 }

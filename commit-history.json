@@ -355,5 +355,22 @@
     },
     "coverage": 0,
     "test_count": 34
+  },
+  {
+    "sha": "870b24c1ac6be87e5f54ae03430aa3da3034774b",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-05-19T19:55:36.000Z",
+      "message": "Style<Surtidores>: se agregaron colores y estilos a los surtidores de los conductores",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/870b24c1ac6be87e5f54ae03430aa3da3034774b"
+    },
+    "stats": {
+      "total": 198,
+      "additions": 159,
+      "deletions": 39,
+      "date": "2025-05-19"
+    },
+    "coverage": 0,
+    "test_count": 34
   }
 ]
