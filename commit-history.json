@@ -338,5 +338,22 @@
     },
     "coverage": 0,
     "test_count": 34
+  },
+  {
+    "sha": "af4cdebd0df887eb56148b0bb29a5baba2b8edfd",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-05-19T19:25:13.000Z",
+      "message": "Style<index>: Se agregaron estilos a la pagina de registro",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/af4cdebd0df887eb56148b0bb29a5baba2b8edfd"
+    },
+    "stats": {
+      "total": 83,
+      "additions": 83,
+      "deletions": 0,
+      "date": "2025-05-19"
+    },
+    "coverage": 0,
+    "test_count": 34
   }
 ]
