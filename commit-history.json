@@ -372,5 +372,22 @@
     },
     "coverage": 0,
     "test_count": 34
+  },
+  {
+    "sha": "213186e23256d8bae393317bfb40cecbfb8a51f4",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-05-20T14:06:47.000Z",
+      "message": "Style<Surtidores Admin>: Se agregaron estilos para los espacion de cancelar tickets y registrar gasolina",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/213186e23256d8bae393317bfb40cecbfb8a51f4"
+    },
+    "stats": {
+      "total": 63,
+      "additions": 57,
+      "deletions": 6,
+      "date": "2025-05-20"
+    },
+    "coverage": 0,
+    "test_count": 55
   }
 ]
