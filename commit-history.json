@@ -389,5 +389,22 @@
     },
     "coverage": 0,
     "test_count": 55
+  },
+  {
+    "sha": "c8ca12dfe64160b4ae7adabcf896f2051fa31a71",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-05-20T14:09:09.000Z",
+      "message": "Feat<Registro_llegada_gasolina.js>: se agrego el mensaje para confirmar el registro de gasolina",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/c8ca12dfe64160b4ae7adabcf896f2051fa31a71"
+    },
+    "stats": {
+      "total": 1,
+      "additions": 1,
+      "deletions": 0,
+      "date": "2025-05-20"
+    },
+    "coverage": 0,
+    "test_count": 55
   }
 ]
