@@ -1,10 +1,12 @@
 import { esta_dentro_horario } from './surtidores.js';
 import { generarTicket } from './ticket.js';
 import { incrementarContador, decrementarContador } from './contador.js';
+import { calcularPromedioCarga } from './promedio_carga.js';
 
 const hoy = new Date();
 const horaActual = new Date().getHours();
 const estadoHorario = document.getElementById("estado-horario");
+
 
 function mostrar_horario_Actual() {
     if (esta_dentro_horario(horaActual)) {
@@ -61,6 +63,17 @@ function actualizarContador(valor) {
   localStorage.setItem(keyContador, contador);
 }
 
+//promedio de carga gasolina
+const btnCalcularPromedio = document.getElementById("calcular-carga-promedio-button");
+const promedioElemento = document.getElementById("promedio-gasolina");
+function actualizarPromedioCarga() {
+  if (promedioElemento) {
+    const promedio = calcularPromedioCarga(contador);
+    promedioElemento.textContent = promedio;
+  }
+}
+
 btnIngresar?.addEventListener("click", () => actualizarContador(1));
 btnSalir?.addEventListener("click", () => actualizarContador(-1));
+btnCalcularPromedio?.addEventListener("click", actualizarPromedioCarga);
 

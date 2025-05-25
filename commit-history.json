@@ -644,5 +644,22 @@
     },
     "coverage": 0,
     "test_count": 37
+  },
+  {
+    "sha": "07f7df02af633fcd0c927e43d6180c4e93becaf4",
+    "author": "Tairin-Munoz",
+    "commit": {
+      "date": "2025-05-25T23:39:46.000Z",
+      "message": "feat: funcion para calcular promedio de gasolina que cargan los autos en fila",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/07f7df02af633fcd0c927e43d6180c4e93becaf4"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 13,
+      "deletions": 0,
+      "date": "2025-05-25"
+    },
+    "coverage": 0,
+    "test_count": 37
   }
 ]
