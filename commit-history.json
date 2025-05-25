@@ -576,5 +576,22 @@
     },
     "coverage": 0,
     "test_count": 34
+  },
+  {
+    "sha": "a03395f19eaf7991cda5479c0ddc8f9c0d55df6f",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-05-25T22:13:06.000Z",
+      "message": "Test<cypress>: Se hizo una prueba cypress para probar que el filtro muestre surtidores con disponibilidad",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/a03395f19eaf7991cda5479c0ddc8f9c0d55df6f"
+    },
+    "stats": {
+      "total": 26,
+      "additions": 26,
+      "deletions": 0,
+      "date": "2025-05-25"
+    },
+    "coverage": 0,
+    "test_count": 34
   }
 ]
