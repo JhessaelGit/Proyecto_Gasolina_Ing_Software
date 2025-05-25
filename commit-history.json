@@ -270,5 +270,22 @@
     },
     "coverage": 0,
     "test_count": 55
+  },
+  {
+    "sha": "29803c7a71d7a6671a78ca319995da67076f3c46",
+    "author": "melanytorrez",
+    "commit": {
+      "date": "2025-05-25T22:50:57.000Z",
+      "message": "refactor: reiniciar contador de vehiculos",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/29803c7a71d7a6671a78ca319995da67076f3c46"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 4,
+      "deletions": 1,
+      "date": "2025-05-25"
+    },
+    "coverage": 0,
+    "test_count": 55
   }
 ]
