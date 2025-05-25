@@ -542,5 +542,22 @@
     },
     "coverage": 0,
     "test_count": 34
+  },
+  {
+    "sha": "a94eded551f38a2916b5f96d3fc7b4c5c4d782b9",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-05-25T21:50:08.000Z",
+      "message": "Feat<Registro llegada gasolina>: Cambia el valor de la disponibilidad de la gasolina en el surtidor",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/a94eded551f38a2916b5f96d3fc7b4c5c4d782b9"
+    },
+    "stats": {
+      "total": 12,
+      "additions": 11,
+      "deletions": 1,
+      "date": "2025-05-25"
+    },
+    "coverage": 0,
+    "test_count": 34
   }
 ]
