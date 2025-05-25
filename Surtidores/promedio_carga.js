@@ -1,4 +1,5 @@
 export function calcularPromedioCarga(autosEnFila) {
-
-  return 0;
+    
+  const LITROS_POR_AUTO = 45;
+  return Math.max(0, autosEnFila) * LITROS_POR_AUTO;
 }
