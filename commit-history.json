@@ -491,5 +491,22 @@
     },
     "coverage": 0,
     "test_count": 34
+  },
+  {
+    "sha": "74efa64c0c325cd939a14950b0f23a70cd8a7d53",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-05-25T21:19:09.000Z",
+      "message": "Feat: se agrego la cantidad de gasolina a la lista de los surtidores de los usuarios",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/74efa64c0c325cd939a14950b0f23a70cd8a7d53"
+    },
+    "stats": {
+      "total": 216,
+      "additions": 124,
+      "deletions": 92,
+      "date": "2025-05-25"
+    },
+    "coverage": 0,
+    "test_count": 34
   }
 ]
