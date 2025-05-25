@@ -610,5 +610,22 @@
     },
     "coverage": 0,
     "test_count": 36
+  },
+  {
+    "sha": "3a2264eca2c5b282adbbdc9358c658c3e763800a",
+    "author": "Tairin-Munoz",
+    "commit": {
+      "date": "2025-05-25T23:25:23.000Z",
+      "message": "refactor: promedio de 45 para 1 auto en fila",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/3a2264eca2c5b282adbbdc9358c658c3e763800a"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 5,
+      "deletions": 3,
+      "date": "2025-05-25"
+    },
+    "coverage": 0,
+    "test_count": 36
   }
 ]
