@@ -457,5 +457,22 @@
     },
     "coverage": 0,
     "test_count": 34
+  },
+  {
+    "sha": "69f4185f36d0d3b13f23ab47a48a84bcb6911159",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-25T01:51:08.000Z",
+      "message": "feat(test)<solicitar_ticket.cy.js>: Agrega el registro en fila, completando el flujo",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/69f4185f36d0d3b13f23ab47a48a84bcb6911159"
+    },
+    "stats": {
+      "total": 20,
+      "additions": 19,
+      "deletions": 1,
+      "date": "2025-05-25"
+    },
+    "coverage": 0,
+    "test_count": 34
   }
 ]
