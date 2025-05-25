@@ -423,5 +423,22 @@
     },
     "coverage": 0,
     "test_count": 34
+  },
+  {
+    "sha": "feb8323647ddfd41669ea20b8f4916523ae4f231",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-25T01:32:26.000Z",
+      "message": "feat(test)<solicitar_ticket.cy.js>: agregar filtrado y verificación de surtidores disponibles en flujo de solicitud",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/feb8323647ddfd41669ea20b8f4916523ae4f231"
+    },
+    "stats": {
+      "total": 15,
+      "additions": 13,
+      "deletions": 2,
+      "date": "2025-05-25"
+    },
+    "coverage": 0,
+    "test_count": 34
   }
 ]

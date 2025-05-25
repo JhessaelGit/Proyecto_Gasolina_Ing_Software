@@ -1,5 +1,5 @@
-describe('Flujo de usuario - Paso 1: Registro', () => {
-  it('Registra un nuevo usuario', () => {
+describe('Solicitar ticket', () => {
+  it('Flujo completo: registro, filtrado, selección de surtidor, solicitar ticket e ingresar a la fila', () => {
     // 1. Ir a la página de registro
     cy.visit('/');
 
@@ -14,5 +14,16 @@ describe('Flujo de usuario - Paso 1: Registro', () => {
 
     //4. Verificar que se redirige a la página de surtidores
     cy.url().should('include', '/lista_surtidores.html');
+
+     // 5. Filtrar por surtidores disponibles
+    cy.get('#opcion-filtrado').select('disponibles');
+    cy.get('#button-filtrar').click();
+
+    // 6. Verificar que sólo aparecen surtidores disponibles
+    cy.get('label#estado-actual:visible').each(($label) => {
+        expect($label).to.have.class('disponible');
+    });
+
+
   });
 });
