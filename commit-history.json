@@ -559,5 +559,22 @@
     },
     "coverage": 0,
     "test_count": 34
+  },
+  {
+    "sha": "34f1895291fe8b5dee593cbf53c50da90b881b19",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-05-25T21:51:05.000Z",
+      "message": "Style<Registro llegada gasolina>: Actualiza el color de la disponibilidad",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/34f1895291fe8b5dee593cbf53c50da90b881b19"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2025-05-25"
+    },
+    "coverage": 0,
+    "test_count": 34
   }
 ]

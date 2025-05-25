@@ -18,8 +18,12 @@ boton_registrar_llegada_gasolina.addEventListener("click", (event) => {
 
     if (cantidadNumerica < 100) {
       estadoActualElemento.textContent = "Agotado";
+      estadoActualElemento.classList.remove("disponible");
+      estadoActualElemento.classList.add("agotado");
     } else {
       estadoActualElemento.textContent = "Disponible";
+      estadoActualElemento.classList.remove("agotado");
+      estadoActualElemento.classList.add("disponible");
     }
 
     alert("Registro de gasolina realizado correctamente");
