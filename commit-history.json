@@ -474,5 +474,22 @@
     },
     "coverage": 0,
     "test_count": 34
+  },
+  {
+    "sha": "e22b343492216c1f94d86b5be56a6ec6356a5e07",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-05-25T16:26:37.000Z",
+      "message": "Feat<Surtidores Administrador>: se agrego la cantidad de gasolina que hay en cada surtidor",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/e22b343492216c1f94d86b5be56a6ec6356a5e07"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2025-05-25"
+    },
+    "coverage": 0,
+    "test_count": 34
   }
 ]
