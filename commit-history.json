@@ -440,5 +440,22 @@
     },
     "coverage": 0,
     "test_count": 34
+  },
+  {
+    "sha": "5e4640bab2ebcfe971e95edaf0b0fab58e44a511",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-25T01:39:43.000Z",
+      "message": "feat(test)<solicitar_ticket.cy.js>: agregar selección de surtidor disponible y solicitud de ticket",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/5e4640bab2ebcfe971e95edaf0b0fab58e44a511"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 5,
+      "deletions": 0,
+      "date": "2025-05-25"
+    },
+    "coverage": 0,
+    "test_count": 34
   }
 ]

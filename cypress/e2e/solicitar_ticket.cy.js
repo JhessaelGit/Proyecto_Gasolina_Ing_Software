@@ -24,6 +24,11 @@ describe('Solicitar ticket', () => {
         expect($label).to.have.class('disponible');
     });
 
+    // 7. Dar click en el primer surtidor disponible
+    cy.get('.surtidor').filter(':has(label#estado-actual.disponible)').first().find('button').click();
+
+    // 8. Hacer click en el botón "Solicitar Ticket"
+    cy.get('#btn-ticket').click();
 
   });
 });
