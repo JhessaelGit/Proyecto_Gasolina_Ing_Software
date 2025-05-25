@@ -508,5 +508,22 @@
     },
     "coverage": 0,
     "test_count": 34
+  },
+  {
+    "sha": "ed80679e78eab777a95c877a27384760815ef162",
+    "author": "Jhessael Siancas",
+    "commit": {
+      "date": "2025-05-25T21:27:17.000Z",
+      "message": "Feat: se agrego la cantidad de gasolina en cada surtidor del usuario particular",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/ed80679e78eab777a95c877a27384760815ef162"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2025-05-25"
+    },
+    "coverage": 0,
+    "test_count": 34
   }
 ]
