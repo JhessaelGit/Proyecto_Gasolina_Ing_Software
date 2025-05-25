@@ -627,5 +627,22 @@
     },
     "coverage": 0,
     "test_count": 36
+  },
+  {
+    "sha": "b0e01f754c876dadb0267fc46289224367c611e2",
+    "author": "Tairin-Munoz",
+    "commit": {
+      "date": "2025-05-25T23:27:04.000Z",
+      "message": "test: promedio para varios autos en fila",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/b0e01f754c876dadb0267fc46289224367c611e2"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2025-05-25"
+    },
+    "coverage": 0,
+    "test_count": 37
   }
 ]
