@@ -406,5 +406,22 @@
     },
     "coverage": 0,
     "test_count": 55
+  },
+  {
+    "sha": "91ddbed6aba2025955ad614863ea5d24c8a4e6f2",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-25T01:12:19.000Z",
+      "message": "test(registro): verificar redirección a lista de surtidores al ser registrado",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/91ddbed6aba2025955ad614863ea5d24c8a4e6f2"
+    },
+    "stats": {
+      "total": 18,
+      "additions": 18,
+      "deletions": 0,
+      "date": "2025-05-25"
+    },
+    "coverage": 0,
+    "test_count": 34
   }
 ]
