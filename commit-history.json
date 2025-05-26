@@ -287,5 +287,22 @@
     },
     "coverage": 0,
     "test_count": 55
+  },
+  {
+    "sha": "d3d1af03c6926c302368eef1929153ce7c44177e",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-26T00:49:12.000Z",
+      "message": "fix<solicitar_ticket>:El cypress solo solicita ticket",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/d3d1af03c6926c302368eef1929153ce7c44177e"
+    },
+    "stats": {
+      "total": 41,
+      "additions": 6,
+      "deletions": 35,
+      "date": "2025-05-26"
+    },
+    "coverage": 0,
+    "test_count": 34
   }
 ]
