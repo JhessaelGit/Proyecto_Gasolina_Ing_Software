@@ -48,8 +48,11 @@ const contadorElemento = document.getElementById("contador-fila");
 const btnIngresar = document.getElementById("btn-ingresar-fila");
 const btnSalir = document.getElementById("btn-salir-fila");
 
-let contador = parseInt(localStorage.getItem(keyContador)) || 0;
+// Reiniciar contador a 0 al cargar la página
+let contador = 0;
 if (contadorElemento) contadorElemento.textContent = contador;
+localStorage.setItem(keyContador, contador); // Guarda el nuevo valor 0 en localStorage
+
 
 function actualizarContador(valor) {
   if (valor === 1) {
