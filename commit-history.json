@@ -287,5 +287,22 @@
     },
     "coverage": 0,
     "test_count": 55
+  },
+  {
+    "sha": "4dab0d189b9f486462ad59e227ebf262c255eb91",
+    "author": "melanytorrez",
+    "commit": {
+      "date": "2025-05-26T01:03:18.000Z",
+      "message": "test:prueba para el ingreso de vehiculos en la fila",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/4dab0d189b9f486462ad59e227ebf262c255eb91"
+    },
+    "stats": {
+      "total": 44,
+      "additions": 44,
+      "deletions": 0,
+      "date": "2025-05-26"
+    },
+    "coverage": 0,
+    "test_count": 55
   }
 ]
