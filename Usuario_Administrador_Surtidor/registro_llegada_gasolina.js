@@ -1,4 +1,4 @@
-import { verificar_cantidad_gasolina } from "../Verificar_datos_registro/Verificar_campos";
+import { verificar_cantidad_gasolina } from "../Verificar_datos_registro/Verificar_campos.js";
 
 const cantidad_gasolina = document.querySelector("#cantidad-gasolina");
 const boton_registrar_llegada_gasolina = document.querySelector("#registrar-llegada-gasolina-button");
