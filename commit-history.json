@@ -491,5 +491,22 @@
     },
     "coverage": 0,
     "test_count": 37
+  },
+  {
+    "sha": "e91ed934fa9a0656a5ce955f1b47e5445fcd379c",
+    "author": "Diego Rios",
+    "commit": {
+      "date": "2025-05-26T01:37:52.000Z",
+      "message": "Merge branch 'cy_ticket'",
+      "url": "https://github.com/JhessaelGit/Proyecto_Gasolina_Ing_Software/commit/e91ed934fa9a0656a5ce955f1b47e5445fcd379c"
+    },
+    "stats": {
+      "total": 41,
+      "additions": 6,
+      "deletions": 35,
+      "date": "2025-05-26"
+    },
+    "coverage": 0,
+    "test_count": 37
   }
 ]
